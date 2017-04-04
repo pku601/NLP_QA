@@ -1,0 +1,1752 @@
+Q7	Visas and Permits	U22	YES_NO	Yes
+Q7_C1	U23	Good	Unsure
+Q7_C2	U24	Good	Yes
+Q7_C3	U25	Dialogue	Not Applicable
+Q7_C4	U26	Good	Yes
+Q10	Life in Qatar	U38	YES_NO	Unsure
+Q10_C1	U39	Good	Unsure
+Q10_C2	U40	Good	No
+Q10_C3	U37	Dialogue	Not Applicable
+Q10_C4	U41	Bad	Not Applicable
+Q10_C5	U37	Bad	Not Applicable
+Q13	Life in Qatar	U49	YES_NO	Unsure
+Q13_C1	U50	Good	Unsure
+Q13_C2	U51	Good	Yes
+Q13_C3	U49	Dialogue	Not Applicable
+Q16	Qatar Living Lounge	U23	YES_NO	Unsure
+Q16_C1	U23	Bad	Not Applicable
+Q20	Visas and Permits	U83	YES_NO	No
+Q20_C1	U84	Good	No
+Q20_C2	U37	Good	No
+Q20_C3	U83	Bad	Not Applicable
+Q20_C4	U85	Good	No
+Q20_C5	U86	Good	No
+Q44	Sports in Qatar	U180	YES_NO	Yes
+Q44_C1	U181	Dialogue	Not Applicable
+Q44_C2	U37	Good	Yes
+Q44_C3	U182	Good	Yes
+Q44_C4	U183	Good	Yes
+Q56	Life in Qatar	U218	YES_NO	Unsure
+Q56_C1	U219	Good	Unsure
+Q56_C2	U37	Good	Unsure
+Q56_C3	U37	Bad	Not Applicable
+Q66	Moving to Qatar	U246	YES_NO	No
+Q66_C1	U59	Dialogue	Not Applicable
+Q66_C2	U37	Good	Yes
+Q66_C3	U37	Good	No
+Q66_C4	U37	Good	Unsure
+Q66_C5	U59	Good	No
+Q78	Life in Qatar	U289	YES_NO	Yes
+Q78_C1	U290	Good	Yes
+Q78_C2	U37	Good	Yes
+Q78_C3	U291	Good	Yes
+Q78_C4	U292	Good	Yes
+Q84	Advice and Help	U319	YES_NO	Unsure
+Q84_C1	U319	Dialogue	Not Applicable
+Q84_C2	U20	Dialogue	Not Applicable
+Q84_C3	U319	Dialogue	Not Applicable
+Q84_C4	U319	Dialogue	Not Applicable
+Q84_C5	U320	Dialogue	Not Applicable
+Q84_C6	U319	Dialogue	Not Applicable
+Q84_C7	U20	Dialogue	Not Applicable
+Q84_C8	U320	Dialogue	Not Applicable
+Q97	Doha Shopping	U363	YES_NO	Yes
+Q97_C1	U147	Good	Unsure
+Q97_C2	U11	Good	Yes
+Q97_C3	U363	Dialogue	Not Applicable
+Q97_C4	U363	Dialogue	Not Applicable
+Q97_C5	U317	Good	Yes
+Q97_C6	U364	Dialogue	Not Applicable
+Q105	Education	U391	YES_NO	No
+Q105_C1	U20	Dialogue	Not Applicable
+Q105_C2	U37	Good	No
+Q105_C3	U196	Good	No
+Q105_C4	U369	Good	No
+Q105_C5	U37	Good	No
+Q115	Life in Qatar	U422	YES_NO	No
+Q115_C1	U423	Good	No
+Q115_C2	U424	Bad	Not Applicable
+Q115_C3	U425	Good	No
+Q115_C4	U422	Dialogue	Not Applicable
+Q118	Salary and Allowances	U438	YES_NO	Unsure
+Q118_C1	U37	Good	Unsure
+Q118_C2	U439	Good	Unsure
+Q118_C3	U37	Bad	Not Applicable
+Q118_C4	U112	Bad	Not Applicable
+Q118_C5	U37	Bad	Not Applicable
+Q118_C6	U439	Bad	Not Applicable
+Q126	Life in Qatar	U459	YES_NO	Yes
+Q126_C1	U37	Bad	Not Applicable
+Q126_C2	U460	Good	Yes
+Q142	Qatar Living Lounge	U145	YES_NO	Unsure
+Q142_C1	U37	Bad	Not Applicable
+Q153	Environment	U37	YES_NO	Unsure
+Q153_C1	U37	Bad	Not Applicable
+Q153_C2	U37	Bad	Not Applicable
+Q153_C3	U262	Bad	Not Applicable
+Q153_C4	U47	Bad	Not Applicable
+Q153_C5	U553	Bad	Not Applicable
+Q153_C6	U37	Good	Yes
+Q153_C7	U566	Bad	Not Applicable
+Q153_C8	U47	Bad	Not Applicable
+Q153_C9	U566	Bad	Not Applicable
+Q153_C10	U262	Bad	Not Applicable
+Q153_C11	U37	Bad	Not Applicable
+Q153_C12	U37	Good	Unsure
+Q153_C13	U150	Bad	Not Applicable
+Q153_C14	U306	Good	Unsure
+Q153_C15	U37	Bad	Not Applicable
+Q153_C16	U567	Good	No
+Q174	Qatar Living Lounge	U626	YES_NO	Yes
+Q174_C1	U283	Dialogue	Not Applicable
+Q174_C2	U627	Good	Yes
+Q189	Life in Qatar	U700	YES_NO	No
+Q189_C1	U369	Good	No
+Q189_C2	U147	Good	No
+Q189_C3	U701	Good	No
+Q189_C4	U262	Good	No
+Q189_C5	U9	Good	No
+Q209	Qatar Living Lounge	U37	YES_NO	Yes
+Q209_C1	U749	Good	Yes
+Q211	Moving to Qatar	U755	YES_NO	Unsure
+Q211_C1	U756	Bad	Not Applicable
+Q211_C2	U757	Good	Unsure
+Q211_C3	U755	Dialogue	Not Applicable
+Q223	Family Life in Qatar	U799	YES_NO	No
+Q223_C1	U170	Good	No
+Q223_C2	U98	Good	No
+Q223_C3	U75	Dialogue	Not Applicable
+Q223_C4	U800	Good	No
+Q223_C5	U801	Good	No
+Q223_C6	U19	Bad	Not Applicable
+Q223_C7	U75	Dialogue	Not Applicable
+Q223_C8	U802	Good	No
+Q223_C9	U802	Good	No
+Q223_C10	U11	Bad	Not Applicable
+Q223_C11	U803	Bad	Not Applicable
+Q223_C12	U799	Dialogue	Not Applicable
+Q223_C13	U799	Bad	Not Applicable
+Q223_C14	U799	Dialogue	Not Applicable
+Q223_C15	U799	Dialogue	Not Applicable
+Q223_C16	U799	Dialogue	Not Applicable
+Q223_C17	U383	Bad	Not Applicable
+Q223_C18	U378	Good	Yes
+Q223_C19	U19	Bad	Not Applicable
+Q223_C20	U804	Bad	Not Applicable
+Q223_C21	U37	Good	No
+Q223_C22	U805	Bad	Not Applicable
+Q223_C23	U806	Good	No
+Q223_C24	U807	Good	No
+Q223_C25	U808	Good	No
+Q223_C26	U802	Bad	Not Applicable
+Q223_C27	U799	Bad	Not Applicable
+Q223_C28	U716	Good	No
+Q223_C29	U145	Good	Unsure
+Q223_C30	U12	Bad	Not Applicable
+Q223_C31	U435	Good	No
+Q224	Socialising	U809	YES_NO	Unsure
+Q224_C1	U324	Bad	Not Applicable
+Q231	Visas and Permits	U824	YES_NO	No
+Q231_C1	U825	Good	No
+Q231_C2	U826	Good	No
+Q231_C3	U824	Bad	Not Applicable
+Q231_C4	U827	Good	No
+Q231_C5	U824	Bad	Not Applicable
+Q258	Visas and Permits	U889	YES_NO	Unsure
+Q258_C1	U836	Good	Unsure
+Q258_C2	U889	Dialogue	Not Applicable
+Q258_C3	U890	Good	Yes
+Q258_C4	U891	Good	Unsure
+Q258_C5	U892	Good	Unsure
+Q278	Sightseeing and Tourist attractions	U944	YES_NO	Unsure
+Q278_C1	U945	Good	Unsure
+Q278_C2	U946	Good	Yes
+Q278_C3	U357	Good	Unsure
+Q278_C4	U944	Good	Yes
+Q280	Qatar Living Lounge	U952	YES_NO	No
+Q280_C1	U479	Dialogue	Not Applicable
+Q280_C2	U19	Good	No
+Q280_C3	U479	Good	No
+Q280_C4	U953	Dialogue	Not Applicable
+Q280_C5	U953	Dialogue	Not Applicable
+Q280_C6	U954	Dialogue	Not Applicable
+Q280_C7	U955	Dialogue	Not Applicable
+Q280_C8	U953	Bad	Not Applicable
+Q296	Sightseeing and Tourist attractions	U988	YES_NO	Yes
+Q296_C1	U989	Dialogue	Not Applicable
+Q296_C2	U989	Dialogue	Not Applicable
+Q296_C3	U990	Good	Yes
+Q296_C4	U988	Dialogue	Not Applicable
+Q296_C5	U991	Good	No
+Q296_C6	U988	Dialogue	Not Applicable
+Q296_C7	U37	Good	Unsure
+Q296_C8	U992	Good	Yes
+Q296_C9	U988	Dialogue	Not Applicable
+Q296_C10	U993	Dialogue	Not Applicable
+Q296_C11	U989	Dialogue	Not Applicable
+Q314	Visas and Permits	U1033	YES_NO	Yes
+Q314_C1	U1033	Bad	Not Applicable
+Q314_C2	U1034	Good	Yes
+Q314_C3	U425	Bad	Not Applicable
+Q314_C4	U1033	Bad	Not Applicable
+Q314_C5	U1035	Good	Yes
+Q322	Doha Shopping	U37	YES_NO	Yes
+Q322_C1	U1050	Good	Yes
+Q322_C2	U1051	Good	Yes
+Q322_C3	U1052	Good	Yes
+Q341	Family Life in Qatar	U170	YES_NO	Unsure
+Q341_C1	U1112	Good	Unsure
+Q341_C2	U37	Bad	Not Applicable
+Q341_C3	U57	Good	Unsure
+Q361	Advice and Help	U1154	YES_NO	Yes
+Q361_C1	U20	Good	Yes
+Q361_C2	U1155	Good	Unsure
+Q361_C3	U37	Good	Yes
+Q361_C4	U1156	Good	Yes
+Q361_C5	U1157	Good	Yes
+Q364	Qatar Living Lounge	U419	YES_NO	Unsure
+Q364_C1	U419	Good	Unsure
+Q364_C2	U11	Bad	Not Applicable
+Q381	Qatar Living Lounge	U1215	YES_NO	Unsure
+Q381_C1	U37	Good	No
+Q381_C2	U37	Good	No
+Q381_C3	U95	Good	Unsure
+Q381_C4	U37	Good	Yes
+Q381_C5	U439	Good	Unsure
+Q386	Visas and Permits	U1228	YES_NO	Unsure
+Q386_C1	U1229	Bad	Not Applicable
+Q386_C2	U1228	Dialogue	Not Applicable
+Q407	Qatar Living Lounge	U1294	YES_NO	Unsure
+Q407_C1	U1295	Good	Yes
+Q407_C2	U1294	Bad	Not Applicable
+Q407_C3	U1294	Bad	Not Applicable
+Q407_C4	U1294	Dialogue	Not Applicable
+Q407_C5	U1294	Bad	Not Applicable
+Q407_C6	U47	Bad	Not Applicable
+Q407_C7	U309	Bad	Not Applicable
+Q407_C8	U1296	Good	Unsure
+Q407_C9	U1294	Bad	Not Applicable
+Q407_C10	U47	Bad	Not Applicable
+Q407_C11	U1294	Bad	Not Applicable
+Q407_C12	U1294	Bad	Not Applicable
+Q407_C13	U309	Bad	Not Applicable
+Q407_C14	U1297	Bad	Not Applicable
+Q407_C15	U1294	Bad	Not Applicable
+Q407_C16	U47	Bad	Not Applicable
+Q407_C17	U47	Bad	Not Applicable
+Q407_C18	U1295	Bad	Not Applicable
+Q407_C19	U47	Good	Unsure
+Q407_C20	U1295	Bad	Not Applicable
+Q407_C21	U1294	Good	Unsure
+Q407_C22	U1295	Good	Unsure
+Q407_C23	U47	Dialogue	Not Applicable
+Q407_C24	U1294	Bad	Not Applicable
+Q407_C25	U47	Dialogue	Not Applicable
+Q407_C26	U37	Bad	Not Applicable
+Q407_C27	U37	Bad	Not Applicable
+Q414	Advice and Help	U37	YES_NO	Unsure
+Q414_C1	U37	Good	No
+Q414_C2	U37	Good	Unsure
+Q414_C3	U37	Dialogue	Not Applicable
+Q414_C4	U44	Dialogue	Not Applicable
+Q414_C5	U37	Good	Unsure
+Q414_C6	U37	Dialogue	Not Applicable
+Q424	Visas and Permits	U1326	YES_NO	No
+Q424_C1	U44	Good	No
+Q424_C2	U1326	Dialogue	Not Applicable
+Q430	Qatar Living Lounge	U37	YES_NO	Unsure
+Q430_C1	U37	Bad	Not Applicable
+Q435	Visas and Permits	U1349	YES_NO	Unsure
+Q435_C1	U1350	Good	Unsure
+Q435_C2	U1351	Good	Unsure
+Q435_C3	U1352	Good	Unsure
+Q444	Doha Shopping	U37	YES_NO	Unsure
+Q444_C1	U37	Dialogue	Not Applicable
+Q453	Visas and Permits	U37	YES_NO	Yes
+Q453_C1	U37	Good	Yes
+Q453_C2	U37	Good	Yes
+Q453_C3	U37	Dialogue	Not Applicable
+Q458	Doha Shopping	U1410	YES_NO	No
+Q458_C1	U1411	Good	No
+Q458_C2	U1412	Good	No
+Q458_C3	U37	Good	No
+Q458_C4	U1413	Good	No
+Q458_C5	U1284	Good	Yes
+Q458_C6	U37	Good	Yes
+Q458_C7	U1227	Good	No
+Q458_C8	U716	Good	No
+Q458_C9	U1410	Good	No
+Q461	Life in Qatar	U1423	YES_NO	No
+Q461_C1	U37	Good	Unsure
+Q461_C2	U1424	Good	No
+Q461_C3	U1425	Good	No
+Q461_C4	U1426	Good	No
+Q461_C5	U1427	Bad	Not Applicable
+Q461_C6	U1423	Dialogue	Not Applicable
+Q476	Moving to Qatar	U1469	YES_NO	Unsure
+Q476_C1	U151	Good	No
+Q476_C2	U1470	Good	Yes
+Q478	Qatar Living Lounge	U43	YES_NO	Unsure
+Q478_C1	U938	Bad	Not Applicable
+Q478_C2	U26	Good	No
+Q478_C3	U37	Bad	Not Applicable
+Q478_C4	U1473	Dialogue	Not Applicable
+Q478_C5	U548	Good	Unsure
+Q478_C6	U938	Bad	Not Applicable
+Q482	Qatar Living Lounge	U1482	YES_NO	Yes
+Q482_C1	U1483	Good	Yes
+Q482_C2	U150	Bad	Not Applicable
+Q482_C3	U1484	Good	No
+Q482_C4	U98	Good	Yes
+Q482_C5	U1482	Good	Yes
+Q482_C6	U1485	Good	Yes
+Q482_C7	U1486	Bad	Not Applicable
+Q499	Sightseeing and Tourist attractions	U1525	YES_NO	Yes
+Q499_C1	U877	Good	Yes
+Q499_C2	U37	Good	Yes
+Q499_C3	U1526	Good	Yes
+Q499_C4	U196	Good	Yes
+Q499_C5	U1527	Good	Yes
+Q499_C6	U37	Good	Unsure
+Q499_C7	U37	Good	Unsure
+Q499_C8	U877	Good	Yes
+Q501	Visas and Permits	U1532	YES_NO	Unsure
+Q501_C1	U37	Good	Unsure
+Q501_C2	U1532	Dialogue	Not Applicable
+Q501_C3	U1533	Good	Unsure
+Q542	Visas and Permits	U1624	YES_NO	Unsure
+Q542_C1	U131	Good	Unsure
+Q542_C2	U37	Good	Unsure
+Q542_C3	U1625	Good	Yes
+Q543	Moving to Qatar	U1626	YES_NO	Yes
+Q543_C1	U290	Good	Yes
+Q543_C2	U790	Good	Yes
+Q543_C3	U1626	Dialogue	Not Applicable
+Q545	Socialising	U1630	YES_NO	Yes
+Q545_C1	U37	Dialogue	Not Applicable
+Q545_C2	U202	Dialogue	Not Applicable
+Q545_C3	U548	Bad	Not Applicable
+Q545_C4	U202	Bad	Not Applicable
+Q545_C5	U1630	Dialogue	Not Applicable
+Q545_C6	U1631	Good	Yes
+Q545_C7	U765	Bad	Not Applicable
+Q545_C8	U940	Good	Yes
+Q545_C9	U1632	Bad	Not Applicable
+Q545_C10	U131	Bad	Not Applicable
+Q545_C11	U485	Good	Yes
+Q545_C12	U202	Bad	Not Applicable
+Q545_C13	U940	Bad	Not Applicable
+Q545_C14	U202	Bad	Not Applicable
+Q545_C15	U1633	Good	Yes
+Q545_C16	U1630	Dialogue	Not Applicable
+Q545_C17	U548	Bad	Not Applicable
+Q545_C18	U484	Bad	Not Applicable
+Q545_C19	U1632	Dialogue	Not Applicable
+Q562	Socialising	U1680	YES_NO	Yes
+Q562_C1	U372	Dialogue	Not Applicable
+Q562_C2	U1681	Dialogue	Not Applicable
+Q562_C3	U1680	Dialogue	Not Applicable
+Q562_C4	U317	Dialogue	Not Applicable
+Q562_C5	U75	Dialogue	Not Applicable
+Q562_C6	U75	Dialogue	Not Applicable
+Q562_C7	U75	Good	Yes
+Q562_C8	U317	Good	Yes
+Q562_C9	U317	Good	Yes
+Q562_C10	U317	Bad	Not Applicable
+Q562_C11	U75	Bad	Not Applicable
+Q562_C12	U317	Dialogue	Not Applicable
+Q562_C13	U37	Good	Yes
+Q562_C14	U1129	Good	Yes
+Q562_C15	U37	Good	Yes
+Q562_C16	U37	Dialogue	Not Applicable
+Q562_C17	U317	Dialogue	Not Applicable
+Q562_C18	U1680	Dialogue	Not Applicable
+Q562_C19	U1682	Good	Yes
+Q562_C20	U1683	Good	Unsure
+Q562_C21	U1115	Bad	Not Applicable
+Q562_C22	U1115	Good	Unsure
+Q562_C23	U317	Good	Yes
+Q562_C24	U75	Bad	Not Applicable
+Q562_C25	U1680	Bad	Not Applicable
+Q562_C26	U1680	Good	Yes
+Q575	Life in Qatar	U1709	YES_NO	Unsure
+Q575_C1	U1273	Good	No
+Q575_C2	U1710	Good	Unsure
+Q575_C3	U500	Good	Yes
+Q575_C4	U1711	Good	No
+Q575_C5	U196	Good	Yes
+Q596	Qatar Living Lounge	U37	YES_NO	No
+Q596_C1	U608	Good	No
+Q596_C2	U1415	Good	No
+Q596_C3	U1058	Good	No
+Q596_C4	U37	Good	Unsure
+Q596_C5	U37	Good	Unsure
+Q609	Advice and Help	U1647	YES_NO	Yes
+Q609_C1	U1777	Dialogue	Not Applicable
+Q609_C2	U37	Good	Yes
+Q609_C3	U1647	Dialogue	Not Applicable
+Q609_C4	U37	Good	Yes
+Q609_C5	U1778	Dialogue	Not Applicable
+Q609_C6	U708	Good	Yes
+Q609_C7	U1779	Good	Yes
+Q609_C8	U1647	Dialogue	Not Applicable
+Q609_C9	U708	Good	Yes
+Q609_C10	U1779	Dialogue	Not Applicable
+Q609_C11	U1647	Dialogue	Not Applicable
+Q609_C12	U1780	Dialogue	Not Applicable
+Q611	Doha Shopping	U170	YES_NO	Yes
+Q611_C1	U96	Good	Yes
+Q611_C2	U170	Dialogue	Not Applicable
+Q611_C3	U760	Good	Yes
+Q611_C4	U145	Bad	Not Applicable
+Q611_C5	U1785	Good	Yes
+Q611_C6	U170	Dialogue	Not Applicable
+Q612	Life in Qatar	U37	YES_NO	Yes
+Q612_C1	U75	Good	Yes
+Q612_C2	U12	Good	Yes
+Q612_C3	U228	Good	Unsure
+Q612_C4	U1786	Good	Yes
+Q612_C5	U1787	Good	Yes
+Q612_C6	U1788	Good	Yes
+Q617	Moving to Qatar	U1798	YES_NO	Unsure
+Q617_C1	U1799	Good	Yes
+Q617_C2	U1798	Bad	Not Applicable
+Q617_C3	U37	Good	No
+Q619	Visas and Permits	U1801	YES_NO	Unsure
+Q619_C1	U1802	Good	Unsure
+Q619_C2	U431	Good	Yes
+Q619_C3	U618	Dialogue	Not Applicable
+Q619_C4	U1803	Dialogue	Not Applicable
+Q625	Qatar Living Lounge	U37	YES_NO	No
+Q625_C1	U1814	Good	No
+Q625_C2	U37	Good	No
+Q625_C3	U37	Good	No
+Q625_C4	U37	Good	Unsure
+Q625_C5	U521	Good	No
+Q625_C6	U521	Bad	Not Applicable
+Q625_C7	U1279	Good	Unsure
+Q625_C8	U269	Good	No
+Q625_C9	U521	Bad	Not Applicable
+Q627	Qatar Living Lounge	U1819	YES_NO	Unsure
+Q627_C1	U1820	Bad	Not Applicable
+Q643	Visas and Permits	U247	YES_NO	Unsure
+Q643_C1	U82	Good	Unsure
+Q643_C2	U82	Good	Unsure
+Q652	Moving to Qatar	U1850	YES_NO	Unsure
+Q652_C1	U1879	Dialogue	Not Applicable
+Q652_C2	U145	Dialogue	Not Applicable
+Q652_C3	U1850	Dialogue	Not Applicable
+Q652_C4	U145	Good	Unsure
+Q652_C5	U1850	Dialogue	Not Applicable
+Q667	Advice and Help	U1915	YES_NO	No
+Q667_C1	U112	Bad	Not Applicable
+Q667_C2	U1519	Bad	Not Applicable
+Q667_C3	U37	Bad	Not Applicable
+Q667_C4	U1519	Good	No
+Q667_C5	U1449	Good	No
+Q667_C6	U37	Good	No
+Q667_C7	U112	Bad	Not Applicable
+Q667_C8	U145	Dialogue	Not Applicable
+Q667_C9	U240	Bad	Not Applicable
+Q667_C10	U145	Good	Unsure
+Q667_C11	U1915	Bad	Not Applicable
+Q667_C12	U112	Bad	Not Applicable
+Q667_C13	U430	Good	Unsure
+Q667_C14	U112	Dialogue	Not Applicable
+Q667_C15	U1916	Bad	Not Applicable
+Q667_C16	U112	Bad	Not Applicable
+Q667_C17	U112	Good	No
+Q667_C18	U112	Good	Unsure
+Q667_C19	U37	Good	No
+Q667_C20	U24	Bad	Not Applicable
+Q667_C21	U1917	Good	Unsure
+Q667_C22	U24	Bad	Not Applicable
+Q667_C23	U37	Dialogue	Not Applicable
+Q667_C24	U1918	Dialogue	Not Applicable
+Q667_C25	U145	Dialogue	Not Applicable
+Q667_C26	U1915	Dialogue	Not Applicable
+Q667_C27	U1919	Good	No
+Q667_C28	U1463	Good	No
+Q667_C29	U145	Dialogue	Not Applicable
+Q667_C30	U1422	Bad	Not Applicable
+Q667_C31	U145	Bad	Not Applicable
+Q667_C32	U37	Good	Unsure
+Q667_C33	U37	Bad	Not Applicable
+Q667_C34	U1519	Good	No
+Q667_C35	U1920	Good	No
+Q667_C36	U1921	Good	Unsure
+Q667_C37	U1922	Good	Yes
+Q667_C38	U37	Good	No
+Q667_C39	U1923	Dialogue	Not Applicable
+Q667_C40	U37	Good	Yes
+Q667_C41	U585	Bad	Not Applicable
+Q667_C42	U1924	Good	Unsure
+Q667_C43	U1375	Good	No
+Q667_C44	U1375	Dialogue	Not Applicable
+Q667_C45	U1925	Good	Unsure
+Q667_C46	U1926	Good	Unsure
+Q667_C47	U1927	Good	Unsure
+Q667_C48	U240	Bad	Not Applicable
+Q672	Working in Qatar	U752	YES_NO	Unsure
+Q672_C1	U48	Good	Unsure
+Q672_C2	U752	Dialogue	Not Applicable
+Q672_C3	U712	Good	Unsure
+Q672_C4	U712	Good	Unsure
+Q672_C5	U1934	Good	Yes
+Q673	Health and Fitness	U1935	YES_NO	Unsure
+Q673_C1	U1936	Good	No
+Q673_C2	U1935	Dialogue	Not Applicable
+Q673_C3	U136	Good	Unsure
+Q673_C4	U1634	Good	Yes
+Q693	Doha Shopping	U1324	YES_NO	Unsure
+Q693_C1	U12	Bad	Not Applicable
+Q693_C2	U938	Bad	Not Applicable
+Q693_C3	U47	Bad	Not Applicable
+Q693_C4	U12	Bad	Not Applicable
+Q693_C5	U145	Bad	Not Applicable
+Q693_C6	U26	Bad	Not Applicable
+Q693_C7	U938	Bad	Not Applicable
+Q693_C8	U250	Bad	Not Applicable
+Q693_C9	U1278	Bad	Not Applicable
+Q693_C10	U1978	Bad	Not Applicable
+Q693_C11	U1278	Bad	Not Applicable
+Q693_C12	U352	Bad	Not Applicable
+Q693_C13	U1978	Bad	Not Applicable
+Q693_C14	U131	Good	Unsure
+Q693_C15	U352	Bad	Not Applicable
+Q693_C16	U1978	Bad	Not Applicable
+Q693_C17	U37	Dialogue	Not Applicable
+Q693_C18	U485	Good	No
+Q693_C19	U251	Bad	Not Applicable
+Q693_C20	U1979	Good	Yes
+Q693_C21	U157	Good	Unsure
+Q693_C22	U37	Good	No
+Q693_C23	U1980	Good	Yes
+Q693_C24	U145	Bad	Not Applicable
+Q693_C25	U251	Dialogue	Not Applicable
+Q693_C26	U1978	Bad	Not Applicable
+Q693_C27	U251	Dialogue	Not Applicable
+Q757	Moving to Qatar	U2127	YES_NO	Unsure
+Q757_C1	U2128	Good	Unsure
+Q757_C2	U2127	Dialogue	Not Applicable
+Q757_C3	U352	Good	Unsure
+Q757_C4	U2129	Good	No
+Q757_C5	U306	Good	Yes
+Q757_C6	U2128	Good	Yes
+Q757_C7	U429	Good	Unsure
+Q757_C8	U2127	Dialogue	Not Applicable
+Q757_C9	U1465	Dialogue	Not Applicable
+Q757_C10	U2127	Dialogue	Not Applicable
+Q757_C11	U1465	Dialogue	Not Applicable
+Q757_C12	U2127	Dialogue	Not Applicable
+Q757_C13	U2129	Bad	Not Applicable
+Q764	Life in Qatar	U2143	YES_NO	Unsure
+Q764_C1	U2144	Good	No
+Q764_C2	U2145	Good	Unsure
+Q768	Salary and Allowances	U2153	YES_NO	No
+Q768_C1	U37	Good	No
+Q768_C2	U1962	Good	No
+Q768_C3	U2154	Good	No
+Q768_C4	U1127	Good	No
+Q768_C5	U2155	Good	No
+Q768_C6	U431	Good	No
+Q768_C7	U2156	Good	Unsure
+Q773	Pets and Animals	U2163	YES_NO	No
+Q773_C1	U419	Good	No
+Q773_C2	U2164	Good	No
+Q773_C3	U2165	Good	No
+Q773_C4	U2163	Dialogue	Not Applicable
+Q803	Life in Qatar	U2223	YES_NO	Yes
+Q803_C1	U1114	Good	Yes
+Q803_C2	U37	Good	Yes
+Q820	Advice and Help	U2264	YES_NO	Unsure
+Q820_C1	U566	Bad	Not Applicable
+Q820_C2	U2265	Bad	Not Applicable
+Q820_C3	U938	Bad	Not Applicable
+Q820_C4	U842	Good	Unsure
+Q820_C5	U938	Dialogue	Not Applicable
+Q820_C6	U1978	Bad	Not Applicable
+Q820_C7	U1978	Dialogue	Not Applicable
+Q820_C8	U938	Dialogue	Not Applicable
+Q820_C9	U938	Dialogue	Not Applicable
+Q820_C10	U1978	Dialogue	Not Applicable
+Q820_C11	U938	Dialogue	Not Applicable
+Q820_C12	U2266	Good	Unsure
+Q820_C13	U19	Good	Unsure
+Q820_C14	U938	Good	Unsure
+Q820_C15	U1278	Dialogue	Not Applicable
+Q820_C16	U938	Dialogue	Not Applicable
+Q820_C17	U37	Good	Unsure
+Q820_C18	U938	Dialogue	Not Applicable
+Q820_C19	U938	Bad	Not Applicable
+Q820_C20	U47	Bad	Not Applicable
+Q820_C21	U649	Bad	Not Applicable
+Q820_C22	U938	Bad	Not Applicable
+Q820_C23	U2264	Dialogue	Not Applicable
+Q820_C24	U48	Good	Unsure
+Q820_C25	U938	Bad	Not Applicable
+Q820_C26	U1278	Bad	Not Applicable
+Q820_C27	U842	Dialogue	Not Applicable
+Q820_C28	U649	Good	No
+Q820_C29	U938	Bad	Not Applicable
+Q820_C30	U842	Bad	Not Applicable
+Q820_C31	U48	Bad	Not Applicable
+Q820_C32	U649	Bad	Not Applicable
+Q820_C33	U2264	Bad	Not Applicable
+Q820_C34	U938	Bad	Not Applicable
+Q820_C35	U842	Bad	Not Applicable
+Q820_C36	U649	Bad	Not Applicable
+Q820_C37	U938	Bad	Not Applicable
+Q820_C38	U649	Bad	Not Applicable
+Q820_C39	U2267	Good	No
+Q820_C40	U641	Good	Unsure
+Q820_C41	U1978	Good	No
+Q820_C42	U2265	Dialogue	Not Applicable
+Q820_C43	U1529	Good	Yes
+Q820_C44	U37	Bad	Not Applicable
+Q820_C45	U37	Good	No
+Q820_C46	U1529	Dialogue	Not Applicable
+Q820_C47	U37	Good	No
+Q820_C48	U48	Good	Yes
+Q874	Visas and Permits	U1717	YES_NO	Yes
+Q874_C1	U1347	Good	Yes
+Q874_C2	U770	Good	Yes
+Q874_C3	U20	Bad	Not Applicable
+Q874_C4	U1717	Dialogue	Not Applicable
+Q874_C5	U36	Good	No
+Q874_C6	U1304	Bad	Not Applicable
+Q874_C7	U1541	Bad	Not Applicable
+Q877	Visas and Permits	U2380	YES_NO	No
+Q877_C1	U2381	Good	No
+Q878	Advice and Help	U2382	YES_NO	Yes
+Q878_C1	U2383	Good	Yes
+Q878_C2	U526	Good	Yes
+Q878_C3	U1141	Good	Yes
+Q886	Qatar Living Lounge	U2396	YES_NO	Unsure
+Q886_C1	U309	Good	No
+Q886_C2	U2257	Good	Yes
+Q886_C3	U2396	Bad	Not Applicable
+Q886_C4	U37	Bad	Not Applicable
+Q890	Life in Qatar	U2085	YES_NO	Unsure
+Q890_C1	U419	Good	Unsure
+Q890_C2	U1301	Dialogue	Not Applicable
+Q890_C3	U37	Good	Yes
+Q890_C4	U2085	Dialogue	Not Applicable
+Q890_C5	U2404	Dialogue	Not Applicable
+Q890_C6	U136	Dialogue	Not Applicable
+Q890_C7	U12	Good	Unsure
+Q890_C8	U325	Good	Yes
+Q890_C9	U1911	Bad	Not Applicable
+Q907	Visas and Permits	U138	YES_NO	No
+Q907_C1	U37	Good	No
+Q907_C2	U36	Good	No
+Q907_C3	U20	Good	No
+Q907_C4	U2442	Bad	Not Applicable
+Q907_C5	U37	Good	No
+Q907_C6	U37	Good	No
+Q924	Visas and Permits	U2489	YES_NO	Yes
+Q924_C1	U2490	Good	Yes
+Q933	Life in Qatar	U2501	YES_NO	Unsure
+Q933_C1	U425	Good	No
+Q933_C2	U585	Good	Yes
+Q947	Opportunities	U2526	YES_NO	Yes
+Q947_C1	U520	Good	Yes
+Q947_C2	U160	Dialogue	Not Applicable
+Q947_C3	U520	Dialogue	Not Applicable
+Q947_C4	U147	Good	No
+Q947_C5	U2527	Good	No
+Q947_C6	U520	Good	Yes
+Q947_C7	U1105	Good	Yes
+Q947_C8	U67	Good	Unsure
+Q947_C9	U2098	Good	Yes
+Q947_C10	U37	Dialogue	Not Applicable
+Q947_C11	U765	Dialogue	Not Applicable
+Q947_C12	U37	Good	Unsure
+Q947_C13	U37	Dialogue	Not Applicable
+Q947_C14	U37	Bad	Not Applicable
+Q947_C15	U765	Dialogue	Not Applicable
+Q947_C16	U37	Dialogue	Not Applicable
+Q947_C17	U37	Good	Unsure
+Q964	Computers and Internet	U2555	YES_NO	Unsure
+Q964_C1	U1505	Good	No
+Q964_C2	U2555	Dialogue	Not Applicable
+Q964_C3	U2556	Good	Yes
+Q986	Cars	U2595	YES_NO	No
+Q986_C1	U2596	Good	No
+Q988	Visas and Permits	U2599	YES_NO	No
+Q988_C1	U37	Good	No
+Q988_C2	U112	Good	Yes
+Q988_C3	U246	Good	No
+Q1006	Visas and Permits	U2631	YES_NO	No
+Q1006_C1	U2632	Good	No
+Q1006_C2	U2633	Good	No
+Q1006_C3	U262	Good	No
+Q1006_C4	U2634	Good	No
+Q1038	Visas and Permits	U2703	YES_NO	Yes
+Q1038_C1	U37	Dialogue	Not Applicable
+Q1038_C2	U2704	Good	Yes
+Q1038_C3	U2705	Dialogue	Not Applicable
+Q1038_C4	U2706	Good	Yes
+Q1040	Moving to Qatar	U2708	YES_NO	Yes
+Q1040_C1	U37	Dialogue	Not Applicable
+Q1040_C2	U2709	Good	Yes
+Q1040_C3	U1857	Good	Yes
+Q1040_C4	U1884	Good	Yes
+Q1066	Life in Qatar	U2754	YES_NO	No
+Q1066_C1	U786	Good	No
+Q1069	Moving to Qatar	U2757	YES_NO	Unsure
+Q1069_C1	U2758	Good	Yes
+Q1069_C2	U2759	Good	Unsure
+Q1069_C3	U2195	Bad	Not Applicable
+Q1069_C4	U2757	Bad	Not Applicable
+Q1069_C5	U2758	Good	Unsure
+Q1069_C6	U262	Dialogue	Not Applicable
+Q1074	Working in Qatar	U2772	YES_NO	Unsure
+Q1074_C1	U1648	Bad	Not Applicable
+Q1074_C2	U37	Bad	Not Applicable
+Q1074_C3	U36	Good	Unsure
+Q1074_C4	U1648	Good	No
+Q1074_C5	U1424	Good	Unsure
+Q1075	Visas and Permits	U2773	YES_NO	Unsure
+Q1075_C1	U430	Bad	Not Applicable
+Q1075_C2	U37	Good	No
+Q1075_C3	U705	Bad	Not Applicable
+Q1075_C4	U19	Bad	Not Applicable
+Q1075_C5	U2774	Good	Unsure
+Q1075_C6	U2773	Bad	Not Applicable
+Q1075_C7	U548	Good	Unsure
+Q1075_C8	U2773	Dialogue	Not Applicable
+Q1075_C9	U37	Bad	Not Applicable
+Q1075_C10	U548	Bad	Not Applicable
+Q1075_C11	U37	Dialogue	Not Applicable
+Q1086	Advice and Help	U1972	YES_NO	Unsure
+Q1086_C1	U37	Good	Unsure
+Q1086_C2	U20	Good	No
+Q1086_C3	U2795	Good	Yes
+Q1101	Life in Qatar	U2824	YES_NO	Yes
+Q1101_C1	U1273	Good	Yes
+Q1101_C2	U1567	Good	Yes
+Q1101_C3	U37	Good	Yes
+Q1101_C4	U2355	Good	No
+Q1106	Cars	U2833	YES_NO	Yes
+Q1106_C1	U2834	Good	Yes
+Q1106_C2	U2835	Good	Yes
+Q1106_C3	U196	Good	Unsure
+Q1107	Advice and Help	U2836	YES_NO	Unsure
+Q1107_C1	U11	Bad	Not Applicable
+Q1107_C2	U20	Good	Unsure
+Q1107_C3	U95	Good	Unsure
+Q1107_C4	U1114	Good	Yes
+Q1107_C5	U2836	Dialogue	Not Applicable
+Q1107_C6	U1114	Good	Unsure
+Q1128	Visas and Permits	U37	YES_NO	Yes
+Q1128_C1	U157	Good	Unsure
+Q1128_C2	U59	Good	Yes
+Q1128_C3	U37	Dialogue	Not Applicable
+Q1128_C4	U2416	Good	Yes
+Q1128_C5	U59	Dialogue	Not Applicable
+Q1138	Qatar Living Lounge	U2894	YES_NO	Unsure
+Q1138_C1	U2895	Dialogue	Not Applicable
+Q1138_C2	U2894	Dialogue	Not Applicable
+Q1138_C3	U145	Dialogue	Not Applicable
+Q1138_C4	U1193	Dialogue	Not Applicable
+Q1147	Education	U608	YES_NO	Unsure
+Q1147_C1	U1916	Good	Unsure
+Q1157	Working in Qatar	U2923	YES_NO	Unsure
+Q1157_C1	U2924	Bad	Not Applicable
+Q1157_C2	U2925	Good	Unsure
+Q1157_C3	U37	Good	No
+Q1157_C4	U2923	Dialogue	Not Applicable
+Q1157_C5	U2925	Dialogue	Not Applicable
+Q1157_C6	U2207	Bad	Not Applicable
+Q1157_C7	U2926	Bad	Not Applicable
+Q1157_C8	U2923	Good	Unsure
+Q1170	Qatar Living Lounge	U37	YES_NO	Yes
+Q1170_C1	U37	Bad	Not Applicable
+Q1170_C2	U353	Dialogue	Not Applicable
+Q1170_C3	U37	Bad	Not Applicable
+Q1170_C4	U353	Bad	Not Applicable
+Q1170_C5	U608	Dialogue	Not Applicable
+Q1170_C6	U37	Dialogue	Not Applicable
+Q1170_C7	U1401	Good	Yes
+Q1170_C8	U2966	Bad	Not Applicable
+Q1170_C9	U353	Dialogue	Not Applicable
+Q1171	Qatar Living Lounge	U1820	YES_NO	Yes
+Q1171_C1	U95	Bad	Not Applicable
+Q1171_C2	U1822	Bad	Not Applicable
+Q1171_C3	U1820	Bad	Not Applicable
+Q1171_C4	U1820	Bad	Not Applicable
+Q1171_C5	U419	Good	Yes
+Q1171_C6	U439	Good	Yes
+Q1171_C7	U676	Good	Yes
+Q1171_C8	U1498	Bad	Not Applicable
+Q1174	Qatar Living Lounge	U37	YES_NO	Unsure
+Q1174_C1	U37	Bad	Not Applicable
+Q1180	Socialising	U406	YES_NO	Yes
+Q1180_C1	U2984	Good	Yes
+Q1185	Advice and Help	U2990	YES_NO	Yes
+Q1185_C1	U1931	Good	No
+Q1185_C2	U2991	Good	Yes
+Q1185_C3	U2519	Good	Yes
+Q1185_C4	U2992	Good	Yes
+Q1185_C5	U12	Good	No
+Q1185_C6	U1579	Good	Yes
+Q1185_C7	U2993	Good	Yes
+Q1185_C8	U2994	Good	Yes
+Q1208	Visas and Permits	U3046	YES_NO	No
+Q1208_C1	U296	Good	Yes
+Q1208_C2	U3047	Good	No
+Q1208_C3	U985	Good	Yes
+Q1208_C4	U638	Good	No
+Q1208_C5	U3048	Dialogue	Not Applicable
+Q1208_C6	U3049	Good	No
+Q1223	Qatari Culture	U3072	YES_NO	No
+Q1223_C1	U80	Good	No
+Q1230	Family Life in Qatar	U3084	YES_NO	Yes
+Q1230_C1	U2656	Good	Yes
+Q1230_C2	U37	Bad	Not Applicable
+Q1230_C3	U3084	Good	Yes
+Q1230_C4	U306	Good	Yes
+Q1234	Life in Qatar	U3090	YES_NO	Unsure
+Q1234_C1	U1720	Good	No
+Q1234_C2	U1841	Good	Unsure
+Q1234_C3	U3091	Good	Unsure
+Q1234_C4	U2846	Good	Unsure
+Q1234_C5	U1957	Good	No
+Q1234_C6	U2760	Good	Unsure
+Q1234_C7	U3092	Good	No
+Q1239	Family Life in Qatar	U37	YES_NO	Yes
+Q1239_C1	U37	Good	Yes
+Q1239_C2	U37	Bad	Not Applicable
+Q1239_C3	U325	Bad	Not Applicable
+Q1239_C4	U325	Good	Yes
+Q1239_C5	U3098	Good	Yes
+Q1239_C6	U37	Bad	Not Applicable
+Q1239_C7	U257	Good	Yes
+Q1239_C8	U3099	Bad	Not Applicable
+Q1239_C9	U37	Dialogue	Not Applicable
+Q1239_C10	U37	Dialogue	Not Applicable
+Q1239_C11	U3100	Good	No
+Q1239_C12	U1825	Dialogue	Not Applicable
+Q1239_C13	U3101	Good	Yes
+Q1239_C14	U37	Dialogue	Not Applicable
+Q1239_C15	U37	Dialogue	Not Applicable
+Q1239_C16	U37	Good	Yes
+Q1239_C17	U3102	Good	Yes
+Q1239_C18	U2043	Good	Yes
+Q1239_C19	U705	Good	Yes
+Q1239_C20	U131	Dialogue	Not Applicable
+Q1260	Visas and Permits	U3153	YES_NO	No
+Q1260_C1	U35	Good	No
+Q1260_C2	U262	Good	Unsure
+Q1260_C3	U3083	Dialogue	Not Applicable
+Q1260_C4	U37	Good	No
+Q1292	Visas and Permits	U3220	YES_NO	Yes
+Q1292_C1	U1713	Good	Yes
+Q1292_C2	U2116	Good	Yes
+Q1292_C3	U521	Good	Yes
+Q1292_C4	U3221	Good	Yes
+Q1292_C5	U3222	Dialogue	Not Applicable
+Q1292_C6	U1713	Bad	Not Applicable
+Q1321	Visas and Permits	U3278	YES_NO	Yes
+Q1321_C1	U2536	Good	Yes
+Q1321_C2	U37	Good	Yes
+Q1321_C3	U2693	Not English	Not Applicable
+Q1321_C4	U2693	Good	No
+Q1321_C5	U3279	Good	Yes
+Q1321_C6	U3280	Good	Yes
+Q1321_C7	U311	Dialogue	Not Applicable
+Q1321_C8	U3281	Good	Yes
+Q1321_C9	U3282	Good	Yes
+Q1321_C10	U37	Good	Yes
+Q1321_C11	U3283	Good	Unsure
+Q1323	Advice and Help	U319	YES_NO	Unsure
+Q1323_C1	U37	Dialogue	Not Applicable
+Q1323_C2	U1400	Bad	Not Applicable
+Q1323_C3	U1207	Good	Yes
+Q1323_C4	U3288	Good	No
+Q1323_C5	U26	Bad	Not Applicable
+Q1328	Advice and Help	U37	YES_NO	Yes
+Q1328_C1	U37	Good	Yes
+Q1328_C2	U1805	Good	Yes
+Q1328_C3	U37	Good	Yes
+Q1328_C4	U3302	Good	No
+Q1329	Cars	U177	YES_NO	No
+Q1329_C1	U37	Good	No
+Q1329_C2	U3303	Dialogue	Not Applicable
+Q1329_C3	U1664	Good	Unsure
+Q1329_C4	U12	Good	No
+Q1330	Qatar Living Lounge	U37	YES_NO	Unsure
+Q1330_C1	U36	Dialogue	Not Applicable
+Q1341	Family Life in Qatar	U479	YES_NO	Unsure
+Q1341_C1	U3335	Bad	Not Applicable
+Q1344	Sightseeing and Tourist attractions	U3340	YES_NO	Unsure
+Q1344_C1	U37	Good	Yes
+Q1344_C2	U1960	Good	No
+Q1344_C3	U3341	Dialogue	Not Applicable
+Q1347	Advice and Help	U3345	YES_NO	No
+Q1347_C1	U3346	Good	No
+Q1347_C2	U3346	Dialogue	Not Applicable
+Q1347_C3	U369	Good	No
+Q1347_C4	U3346	Good	Unsure
+Q1347_C5	U3345	Bad	Not Applicable
+Q1347_C6	U3346	Bad	Not Applicable
+Q1352	Moving to Qatar	U3356	YES_NO	Yes
+Q1352_C1	U3357	Good	Yes
+Q1352_C2	U37	Good	Yes
+Q1357	Qatar Living Lounge	U37	YES_NO	Yes
+Q1357_C1	U324	Good	Yes
+Q1358	Life in Qatar	U3367	YES_NO	Yes
+Q1358_C1	U224	Good	Yes
+Q1358_C2	U2145	Good	Yes
+Q1358_C3	U3367	Good	Yes
+Q1358_C4	U3368	Dialogue	Not Applicable
+Q1358_C5	U3367	Dialogue	Not Applicable
+Q1358_C6	U3369	Dialogue	Not Applicable
+Q1358_C7	U3370	Good	Unsure
+Q1364	Advice and Help	U3377	YES_NO	Yes
+Q1364_C1	U283	Dialogue	Not Applicable
+Q1364_C2	U262	Bad	Not Applicable
+Q1364_C3	U1462	Good	Yes
+Q1364_C4	U3377	Dialogue	Not Applicable
+Q1374	Moving to Qatar	U3392	YES_NO	Unsure
+Q1374_C1	U20	Good	No
+Q1374_C2	U2660	Bad	Not Applicable
+Q1374_C3	U317	Good	Yes
+Q1374_C4	U3392	Dialogue	Not Applicable
+Q1374_C5	U2664	Dialogue	Not Applicable
+Q1387	Qatar Living Lounge	U548	YES_NO	Unsure
+Q1387_C1	U479	Bad	Not Applicable
+Q1387_C2	U3419	Bad	Not Applicable
+Q1387_C3	U1323	Bad	Not Applicable
+Q1387_C4	U37	Bad	Not Applicable
+Q1387_C5	U37	Bad	Not Applicable
+Q1387_C6	U548	Bad	Not Applicable
+Q1387_C7	U145	Bad	Not Applicable
+Q1387_C8	U3419	Good	Unsure
+Q1387_C9	U479	Dialogue	Not Applicable
+Q1387_C10	U3419	Bad	Not Applicable
+Q1387_C11	U479	Bad	Not Applicable
+Q1387_C12	U724	Good	Unsure
+Q1387_C13	U1923	Bad	Not Applicable
+Q1387_C14	U3419	Bad	Not Applicable
+Q1387_C15	U724	Dialogue	Not Applicable
+Q1387_C16	U145	Bad	Not Applicable
+Q1387_C17	U251	Dialogue	Not Applicable
+Q1387_C18	U37	Good	Unsure
+Q1392	Qatar Living Lounge	U145	YES_NO	Yes
+Q1392_C1	U37	Good	Unsure
+Q1392_C2	U938	Good	Yes
+Q1392_C3	U2288	Dialogue	Not Applicable
+Q1392_C4	U37	Good	Unsure
+Q1392_C5	U26	Bad	Not Applicable
+Q1392_C6	U262	Good	Yes
+Q1392_C7	U646	Good	Unsure
+Q1392_C8	U145	Good	Unsure
+Q1392_C9	U47	Good	Unsure
+Q1392_C10	U309	Good	Yes
+Q1392_C11	U37	Good	Yes
+Q1392_C12	U145	Dialogue	Not Applicable
+Q1392_C13	U48	Good	No
+Q1392_C14	U37	Bad	Not Applicable
+Q1392_C15	U145	Dialogue	Not Applicable
+Q1392_C16	U112	Good	Yes
+Q1392_C17	U37	Bad	Not Applicable
+Q1392_C18	U145	Good	Yes
+Q1392_C19	U37	Good	Yes
+Q1392_C20	U37	Dialogue	Not Applicable
+Q1392_C21	U37	Dialogue	Not Applicable
+Q1431	Moving to Qatar	U755	YES_NO	Yes
+Q1431_C1	U2444	Good	Yes
+Q1431_C2	U3500	Good	Yes
+Q1434	Family Life in Qatar	U3505	YES_NO	No
+Q1434_C1	U3506	Good	No
+Q1434_C2	U3507	Good	Unsure
+Q1434_C3	U1960	Good	No
+Q1461	Funnies	U3548	YES_NO	Unsure
+Q1461_C1	U832	Bad	Not Applicable
+Q1462	Qatar Living Lounge	U439	YES_NO	No
+Q1462_C1	U223	Bad	Not Applicable
+Q1462_C2	U491	Bad	Not Applicable
+Q1462_C3	U223	Bad	Not Applicable
+Q1462_C4	U491	Bad	Not Applicable
+Q1462_C5	U3549	Bad	Not Applicable
+Q1462_C6	U223	Bad	Not Applicable
+Q1462_C7	U223	Bad	Not Applicable
+Q1462_C8	U491	Bad	Not Applicable
+Q1462_C9	U3549	Good	No
+Q1462_C10	U491	Bad	Not Applicable
+Q1462_C11	U228	Bad	Not Applicable
+Q1462_C12	U11	Bad	Not Applicable
+Q1462_C13	U3550	Good	No
+Q1462_C14	U3549	Bad	Not Applicable
+Q1462_C15	U223	Bad	Not Applicable
+Q1462_C16	U150	Bad	Not Applicable
+Q1469	Life in Qatar	U3567	YES_NO	Yes
+Q1469_C1	U283	Good	Unsure
+Q1469_C2	U443	Good	Yes
+Q1469_C3	U1284	Good	Yes
+Q1469_C4	U3465	Good	Yes
+Q1469_C5	U3568	Good	Unsure
+Q1469_C6	U37	Good	Yes
+Q1474	Doha Shopping	U3576	YES_NO	Yes
+Q1474_C1	U3576	Dialogue	Not Applicable
+Q1474_C2	U3577	Good	Yes
+Q1474_C3	U3151	Good	Yes
+Q1474_C4	U3578	Good	Yes
+Q1474_C5	U250	Bad	Not Applicable
+Q1474_C6	U1531	Good	Yes
+Q1474_C7	U1885	Good	Yes
+Q1490	Socialising	U430	YES_NO	Unsure
+Q1490_C1	U57	Bad	Not Applicable
+Q1490_C2	U57	Bad	Not Applicable
+Q1513	Moving to Qatar	U3640	YES_NO	Unsure
+Q1513_C1	U37	Good	Unsure
+Q1519	Visas and Permits	U3650	YES_NO	Unsure
+Q1519_C1	U2031	Dialogue	Not Applicable
+Q1519_C2	U3650	Good	Unsure
+Q1519_C3	U37	Good	Yes
+Q1532	Visas and Permits	U3669	YES_NO	No
+Q1532_C1	U1301	Good	Yes
+Q1532_C2	U756	Good	No
+Q1532_C3	U133	Bad	Not Applicable
+Q1532_C4	U19	Good	No
+Q1545	Socialising	U3686	YES_NO	Yes
+Q1545_C1	U3686	Dialogue	Not Applicable
+Q1545_C2	U37	Good	Yes
+Q1560	Working in Qatar	U2352	YES_NO	Unsure
+Q1560_C1	U262	Good	Unsure
+Q1560_C2	U554	Good	Unsure
+Q1560_C3	U749	Bad	Not Applicable
+Q1560_C4	U37	Bad	Not Applicable
+Q1560_C5	U3714	Bad	Not Applicable
+Q1560_C6	U1120	Bad	Not Applicable
+Q1560_C7	U1341	Not English	Not Applicable
+Q1571	Qatar Living Lounge	U2693	YES_NO	Yes
+Q1571_C1	U2693	Good	Yes
+Q1580	Visas and Permits	U3751	YES_NO	Yes
+Q1580_C1	U37	Dialogue	Not Applicable
+Q1580_C2	U90	Good	Yes
+Q1582	Doha Shopping	U37	YES_NO	Yes
+Q1582_C1	U3753	Good	Yes
+Q1582_C2	U37	Good	Yes
+Q1607	Family Life in Qatar	U3807	YES_NO	Unsure
+Q1607_C1	U2247	Good	Unsure
+Q1607_C2	U3808	Good	Unsure
+Q1607_C3	U3809	Good	Unsure
+Q1607_C4	U940	Dialogue	Not Applicable
+Q1607_C5	U251	Bad	Not Applicable
+Q1607_C6	U3810	Bad	Not Applicable
+Q1607_C7	U3811	Bad	Not Applicable
+Q1607_C8	U3812	Bad	Not Applicable
+Q1607_C9	U3811	Bad	Not Applicable
+Q1607_C10	U2247	Dialogue	Not Applicable
+Q1607_C11	U3811	Bad	Not Applicable
+Q1607_C12	U251	Dialogue	Not Applicable
+Q1607_C13	U479	Bad	Not Applicable
+Q1607_C14	U3811	Dialogue	Not Applicable
+Q1607_C15	U3811	Dialogue	Not Applicable
+Q1607_C16	U251	Dialogue	Not Applicable
+Q1607_C17	U3811	Dialogue	Not Applicable
+Q1607_C18	U3812	Dialogue	Not Applicable
+Q1607_C19	U170	Good	Yes
+Q1607_C20	U3811	Good	No
+Q1607_C21	U3810	Dialogue	Not Applicable
+Q1607_C22	U3811	Dialogue	Not Applicable
+Q1607_C23	U3810	Dialogue	Not Applicable
+Q1607_C24	U3811	Dialogue	Not Applicable
+Q1607_C25	U3810	Dialogue	Not Applicable
+Q1607_C26	U3811	Dialogue	Not Applicable
+Q1607_C27	U3811	Dialogue	Not Applicable
+Q1621	Family Life in Qatar	U3840	YES_NO	Unsure
+Q1621_C1	U82	Dialogue	Not Applicable
+Q1621_C2	U3840	Dialogue	Not Applicable
+Q1621_C3	U353	Dialogue	Not Applicable
+Q1621_C4	U478	Bad	Not Applicable
+Q1622	Visas and Permits	U3841	YES_NO	Unsure
+Q1622_C1	U3842	Good	Unsure
+Q1622_C2	U3842	Good	Yes
+Q1622_C3	U202	Dialogue	Not Applicable
+Q1629	Visas and Permits	U3849	YES_NO	Yes
+Q1629_C1	U37	Good	No
+Q1629_C2	U37	Good	Yes
+Q1629_C3	U357	Good	Yes
+Q1666	Sightseeing and Tourist attractions	U330	YES_NO	Unsure
+Q1666_C1	U3944	Good	Unsure
+Q1666_C2	U3945	Good	Yes
+Q1677	Cars	U3960	YES_NO	Yes
+Q1677_C1	U37	Good	No
+Q1677_C2	U3961	Good	Yes
+Q1677_C3	U278	Good	Yes
+Q1677_C4	U3066	Good	Yes
+Q1702	Health and Fitness	U4011	YES_NO	No
+Q1702_C1	U4012	Good	No
+Q1702_C2	U4013	Good	No
+Q1702_C3	U4014	Good	No
+Q1702_C4	U4015	Good	No
+Q1702_C5	U1787	Good	No
+Q1704	Life in Qatar	U4016	YES_NO	Yes
+Q1704_C1	U1210	Good	Yes
+Q1704_C2	U4017	Good	Yes
+Q1704_C3	U1303	Good	Yes
+Q1704_C4	U1138	Not English	Not Applicable
+Q1704_C5	U4018	Not English	Not Applicable
+Q1735	Qatar Living Lounge	U37	YES_NO	Yes
+Q1735_C1	U37	Good	Yes
+Q1735_C2	U1926	Bad	Not Applicable
+Q1735_C3	U566	Bad	Not Applicable
+Q1735_C4	U37	Bad	Not Applicable
+Q1735_C5	U566	Bad	Not Applicable
+Q1735_C6	U37	Bad	Not Applicable
+Q1735_C7	U2961	Bad	Not Applicable
+Q1735_C8	U2879	Good	Unsure
+Q1735_C9	U3758	Good	Unsure
+Q1735_C10	U4058	Dialogue	Not Applicable
+Q1735_C11	U1648	Dialogue	Not Applicable
+Q1735_C12	U269	Dialogue	Not Applicable
+Q1735_C13	U23	Dialogue	Not Applicable
+Q1735_C14	U269	Good	Yes
+Q1735_C15	U122	Good	Yes
+Q1735_C16	U23	Good	Yes
+Q1735_C17	U23	Good	Yes
+Q1735_C18	U4059	Good	Yes
+Q1735_C19	U309	Good	Yes
+Q1735_C20	U37	Bad	Not Applicable
+Q1735_C21	U160	Good	Yes
+Q1735_C22	U37	Good	Yes
+Q1735_C23	U37	Good	No
+Q1735_C24	U37	Bad	Not Applicable
+Q1735_C25	U37	Bad	Not Applicable
+Q1735_C26	U37	Dialogue	Not Applicable
+Q1735_C27	U37	Good	Unsure
+Q1735_C28	U309	Bad	Not Applicable
+Q1735_C29	U306	Good	Yes
+Q1735_C30	U251	Bad	Not Applicable
+Q1735_C31	U566	Good	No
+Q1735_C32	U1787	Good	Yes
+Q1735_C33	U37	Bad	Not Applicable
+Q1735_C34	U566	Bad	Not Applicable
+Q1735_C35	U251	Bad	Not Applicable
+Q1735_C36	U26	Bad	Not Applicable
+Q1735_C37	U37	Bad	Not Applicable
+Q1735_C38	U309	Good	Yes
+Q1735_C39	U353	Good	Yes
+Q1735_C40	U2961	Bad	Not Applicable
+Q1735_C41	U349	Bad	Not Applicable
+Q1735_C42	U479	Good	Unsure
+Q1735_C43	U262	Good	Unsure
+Q1735_C44	U37	Good	Unsure
+Q1735_C45	U26	Dialogue	Not Applicable
+Q1735_C46	U1637	Good	Unsure
+Q1735_C47	U37	Bad	Not Applicable
+Q1735_C48	U566	Bad	Not Applicable
+Q1735_C49	U37	Bad	Not Applicable
+Q1735_C50	U37	Bad	Not Applicable
+Q1770	Life in Qatar	U4112	YES_NO	No
+Q1770_C1	U1505	Bad	Not Applicable
+Q1770_C2	U4113	Good	No
+Q1770_C3	U4114	Good	No
+Q1770_C4	U4115	Good	Unsure
+Q1792	Qatar Living Lounge	U95	YES_NO	Unsure
+Q1792_C1	U95	Bad	Not Applicable
+Q1792_C2	U430	Good	Unsure
+Q1792_C3	U4152	Bad	Not Applicable
+Q1792_C4	U430	Bad	Not Applicable
+Q1805	Qatar 2022	U4177	YES_NO	No
+Q1805_C1	U4178	Good	No
+Q1805_C2	U37	Good	No
+Q1805_C3	U37	Good	No
+Q1805_C4	U37	Good	Yes
+Q1805_C5	U23	Good	No
+Q1805_C6	U4179	Good	Unsure
+Q1808	Qatar Living Lounge	U4185	YES_NO	Yes
+Q1808_C1	U2288	Dialogue	Not Applicable
+Q1808_C2	U251	Dialogue	Not Applicable
+Q1808_C3	U2288	Dialogue	Not Applicable
+Q1808_C4	U4186	Good	Yes
+Q1808_C5	U4185	Dialogue	Not Applicable
+Q1808_C6	U352	Bad	Not Applicable
+Q1808_C7	U4185	Dialogue	Not Applicable
+Q1808_C8	U352	Dialogue	Not Applicable
+Q1808_C9	U352	Dialogue	Not Applicable
+Q1827	Qatar Living Lounge	U1849	YES_NO	Yes
+Q1827_C1	U585	Good	Yes
+Q1831	Family Life in Qatar	U4211	YES_NO	No
+Q1831_C1	U12	Good	No
+Q1831_C2	U4212	Good	Unsure
+Q1831_C3	U4213	Good	No
+Q1831_C4	U4214	Good	No
+Q1831_C5	U1465	Good	No
+Q1831_C6	U37	Good	Yes
+Q1837	Visas and Permits	U4222	YES_NO	Unsure
+Q1837_C1	U37	Good	Unsure
+Q1837_C2	U2532	Good	Unsure
+Q1837_C3	U4223	Good	Unsure
+Q1859	Life in Qatar	U4257	YES_NO	Unsure
+Q1859_C1	U2605	Good	Yes
+Q1859_C2	U500	Good	Yes
+Q1859_C3	U37	Good	No
+Q1859_C4	U496	Good	Yes
+Q1859_C5	U4258	Good	No
+Q1859_C6	U37	Good	No
+Q1859_C7	U37	Bad	Not Applicable
+Q1869	Visas and Permits	U4269	YES_NO	Yes
+Q1869_C1	U4270	Good	Yes
+Q1869_C2	U4271	Good	Yes
+Q1869_C3	U1541	Good	Yes
+Q1869_C4	U4272	Good	Yes
+Q1869_C5	U4273	Good	Yes
+Q1869_C6	U4274	Good	Yes
+Q1869_C7	U4275	Good	Unsure
+Q1869_C8	U90	Good	Yes
+Q1869_C9	U4276	Bad	Not Applicable
+Q1872	Doha Shopping	U4279	YES_NO	Yes
+Q1872_C1	U20	Dialogue	Not Applicable
+Q1872_C2	U1634	Good	Yes
+Q1872_C3	U892	Good	Yes
+Q1872_C4	U4280	Good	Yes
+Q1887	Socialising	U3686	YES_NO	Yes
+Q1887_C1	U3686	Dialogue	Not Applicable
+Q1887_C2	U37	Bad	Not Applicable
+Q1887_C3	U3686	Dialogue	Not Applicable
+Q1887_C4	U3686	Dialogue	Not Applicable
+Q1887_C5	U4304	Good	Yes
+Q1896	Pets and Animals	U4322	YES_NO	No
+Q1896_C1	U419	Good	No
+Q1896_C2	U37	Good	No
+Q1896_C3	U4323	Good	No
+Q1898	Socialising	U4327	YES_NO	Yes
+Q1898_C1	U423	Bad	Not Applicable
+Q1898_C2	U37	Bad	Not Applicable
+Q1898_C3	U4327	Dialogue	Not Applicable
+Q1898_C4	U2180	Dialogue	Not Applicable
+Q1898_C5	U423	Bad	Not Applicable
+Q1898_C6	U423	Bad	Not Applicable
+Q1898_C7	U2180	Bad	Not Applicable
+Q1898_C8	U1168	Good	Yes
+Q1898_C9	U4327	Dialogue	Not Applicable
+Q1898_C10	U37	Dialogue	Not Applicable
+Q1898_C11	U4327	Dialogue	Not Applicable
+Q1898_C12	U37	Dialogue	Not Applicable
+Q1898_C13	U2180	Bad	Not Applicable
+Q1898_C14	U4327	Bad	Not Applicable
+Q1898_C15	U37	Good	Yes
+Q1898_C16	U4328	Good	Unsure
+Q1898_C17	U4327	Dialogue	Not Applicable
+Q1898_C18	U4329	Not English	Not Applicable
+Q1898_C19	U4330	Bad	Not Applicable
+Q1898_C20	U4331	Dialogue	Not Applicable
+Q1903	Socialising	U37	YES_NO	Yes
+Q1903_C1	U724	Bad	Not Applicable
+Q1903_C2	U37	Good	Yes
+Q1903_C3	U37	Bad	Not Applicable
+Q1903_C4	U4340	Good	Yes
+Q1903_C5	U37	Good	Yes
+Q1909	Life in Qatar	U4351	YES_NO	Unsure
+Q1909_C1	U9	Good	No
+Q1909_C2	U3972	Good	Yes
+Q1915	Visas and Permits	U4364	YES_NO	Unsure
+Q1915_C1	U4364	Bad	Not Applicable
+Q1927	Opportunities	U37	YES_NO	Unsure
+Q1927_C1	U4378	Bad	Not Applicable
+Q1927_C2	U4379	Bad	Not Applicable
+Q1927_C3	U4380	Bad	Not Applicable
+Q1927_C4	U4381	Bad	Not Applicable
+Q1927_C5	U19	Dialogue	Not Applicable
+Q1927_C6	U37	Dialogue	Not Applicable
+Q1927_C7	U4382	Bad	Not Applicable
+Q1927_C8	U4383	Good	No
+Q1927_C9	U31	Good	Unsure
+Q1927_C10	U4384	Dialogue	Not Applicable
+Q1927_C11	U37	Dialogue	Not Applicable
+Q1927_C12	U4385	Dialogue	Not Applicable
+Q1927_C13	U4386	Dialogue	Not Applicable
+Q1927_C14	U4387	Dialogue	Not Applicable
+Q1927_C15	U4388	Dialogue	Not Applicable
+Q1927_C16	U4389	Good	Unsure
+Q1927_C17	U914	Dialogue	Not Applicable
+Q1927_C18	U565	Good	Yes
+Q1927_C19	U4390	Bad	Not Applicable
+Q1927_C20	U4391	Dialogue	Not Applicable
+Q1927_C21	U4392	Dialogue	Not Applicable
+Q1978	Qatar Living Lounge	U4469	YES_NO	No
+Q1978_C1	U4470	Good	No
+Q1985	Socialising	U4485	YES_NO	Unsure
+Q1985_C1	U4485	Bad	Not Applicable
+Q2000	Qatar Living Lounge	U4508	YES_NO	Unsure
+Q2000_C1	U1537	Good	No
+Q2000_C2	U4508	Dialogue	Not Applicable
+Q2000_C3	U1361	Good	Unsure
+Q2000_C4	U37	Bad	Not Applicable
+Q2000_C5	U4508	Dialogue	Not Applicable
+Q2005	Family Life in Qatar	U4513	YES_NO	Yes
+Q2005_C1	U1576	Good	Yes
+Q2005_C2	U37	Good	Yes
+Q2005_C3	U37	Bad	Not Applicable
+Q2005_C4	U37	Good	Yes
+Q2005_C5	U37	Bad	Not Applicable
+Q2005_C6	U1678	Bad	Not Applicable
+Q2005_C7	U37	Good	No
+Q2005_C8	U37	Good	No
+Q2005_C9	U2436	Bad	Not Applicable
+Q2014	Visas and Permits	U593	YES_NO	No
+Q2014_C1	U1573	Good	No
+Q2014_C2	U262	Good	No
+Q2014_C3	U634	Good	No
+Q2014_C4	U2436	Good	No
+Q2027	Qatar Living Lounge	U128	YES_NO	Unsure
+Q2027_C1	U4551	Good	Unsure
+Q2027_C2	U608	Good	Yes
+Q2027_C3	U128	Dialogue	Not Applicable
+Q2027_C4	U4552	Good	Unsure
+Q2027_C5	U145	Dialogue	Not Applicable
+Q2033	Salary and Allowances	U4565	YES_NO	Yes
+Q2033_C1	U37	Good	Unsure
+Q2033_C2	U4566	Good	Unsure
+Q2033_C3	U37	Bad	Not Applicable
+Q2033_C4	U1648	Good	Unsure
+Q2033_C5	U37	Good	Yes
+Q2033_C6	U1224	Good	Yes
+Q2033_C7	U37	Good	Yes
+Q2033_C8	U4567	Good	Yes
+Q2047	Family Life in Qatar	U112	YES_NO	Yes
+Q2047_C1	U767	Bad	Not Applicable
+Q2047_C2	U249	Bad	Not Applicable
+Q2047_C3	U112	Dialogue	Not Applicable
+Q2047_C4	U249	Good	Yes
+Q2063	Working in Qatar	U37	YES_NO	Unsure
+Q2063_C1	U659	Good	Unsure
+Q2063_C2	U4274	Bad	Not Applicable
+Q2063_C3	U4274	Bad	Not Applicable
+Q2063_C4	U4274	Bad	Not Applicable
+Q2063_C5	U4611	Bad	Not Applicable
+Q2063_C6	U2612	Bad	Not Applicable
+Q2063_C7	U37	Good	Unsure
+Q2063_C8	U4612	Bad	Not Applicable
+Q2063_C9	U37	Bad	Not Applicable
+Q2063_C10	U938	Bad	Not Applicable
+Q2063_C11	U145	Dialogue	Not Applicable
+Q2063_C12	U1817	Bad	Not Applicable
+Q2063_C13	U47	Bad	Not Applicable
+Q2063_C14	U309	Dialogue	Not Applicable
+Q2063_C15	U37	Dialogue	Not Applicable
+Q2063_C16	U309	Dialogue	Not Applicable
+Q2064	Education	U4613	YES_NO	Yes
+Q2064_C1	U37	Dialogue	Not Applicable
+Q2064_C2	U1224	Good	Yes
+Q2064_C3	U4614	Dialogue	Not Applicable
+Q2064_C4	U4613	Dialogue	Not Applicable
+Q2066	Sports in Qatar	U1324	YES_NO	No
+Q2066_C1	U20	Bad	Not Applicable
+Q2066_C2	U262	Bad	Not Applicable
+Q2066_C3	U59	Bad	Not Applicable
+Q2066_C4	U269	Good	No
+Q2067	Advice and Help	U37	YES_NO	Unsure
+Q2067_C1	U3858	Bad	Not Applicable
+Q2067_C2	U2794	Bad	Not Applicable
+Q2068	Life in Qatar	U2243	YES_NO	Yes
+Q2068_C1	U1908	Good	Yes
+Q2068_C2	U2764	Good	No
+Q2068_C3	U36	Good	Yes
+Q2068_C4	U1442	Good	Yes
+Q2068_C5	U4615	Good	Yes
+Q2085	Qatar Living Lounge	U26	YES_NO	Unsure
+Q2085_C1	U59	Dialogue	Not Applicable
+Q2085_C2	U147	Bad	Not Applicable
+Q2085_C3	U164	Good	Yes
+Q2085_C4	U145	Bad	Not Applicable
+Q2085_C5	U147	Dialogue	Not Applicable
+Q2085_C6	U26	Good	Unsure
+Q2085_C7	U26	Good	Yes
+Q2085_C8	U11	Good	Unsure
+Q2088	Visas and Permits	U4648	YES_NO	No
+Q2088_C1	U4648	Dialogue	Not Applicable
+Q2088_C2	U269	Good	No
+Q2088_C3	U4649	Good	No
+Q2088_C4	U3729	Good	Unsure
+Q2088_C5	U48	Good	No
+Q2088_C6	U4648	Dialogue	Not Applicable
+Q2089	Sightseeing and Tourist attractions	U39	YES_NO	Unsure
+Q2089_C1	U39	Bad	Not Applicable
+Q2089_C2	U4650	Good	No
+Q2089_C3	U1348	Good	No
+Q2089_C4	U4651	Good	Unsure
+Q2089_C5	U4652	Good	Unsure
+Q2106	Advice and Help	U37	YES_NO	Yes
+Q2106_C1	U557	Good	No
+Q2106_C2	U608	Bad	Not Applicable
+Q2106_C3	U4678	Bad	Not Applicable
+Q2106_C4	U1220	Good	Unsure
+Q2106_C5	U309	Good	Yes
+Q2106_C6	U2961	Good	Unsure
+Q2106_C7	U37	Good	Yes
+Q2106_C8	U309	Good	Yes
+Q2106_C9	U4679	Good	Yes
+Q2106_C10	U37	Good	No
+Q2106_C11	U1220	Good	Yes
+Q2106_C12	U3580	Good	Yes
+Q2106_C13	U1366	Good	Yes
+Q2115	Sightseeing and Tourist attractions	U3456	YES_NO	Yes
+Q2115_C1	U37	Good	Yes
+Q2116	Family Life in Qatar	U4694	YES_NO	Yes
+Q2116_C1	U369	Good	Yes
+Q2116_C2	U1788	Good	Yes
+Q2116_C3	U413	Good	Yes
+Q2116_C4	U1114	Good	Yes
+Q2116_C5	U4695	Good	Yes
+Q2118	Visas and Permits	U4696	YES_NO	Yes
+Q2118_C1	U12	Good	Unsure
+Q2118_C2	U1825	Good	Yes
+Q2118_C3	U1659	Good	Yes
+Q2123	Doha Shopping	U37	YES_NO	No
+Q2123_C1	U37	Good	No
+Q2123_C2	U2123	Good	No
+Q2123_C3	U219	Good	No
+Q2123_C4	U37	Good	No
+Q2123_C5	U37	Good	No
+Q2123_C6	U20	Good	No
+Q2129	Working in Qatar	U4707	YES_NO	Yes
+Q2129_C1	U37	Good	Yes
+Q2129_C2	U125	Dialogue	Not Applicable
+Q2129_C3	U4707	Good	Yes
+Q2129_C4	U4707	Bad	Not Applicable
+Q2129_C5	U4708	Good	Unsure
+Q2133	Life in Qatar	U37	YES_NO	Unsure
+Q2133_C1	U681	Bad	Not Applicable
+Q2133_C2	U3400	Good	No
+Q2133_C3	U605	Dialogue	Not Applicable
+Q2133_C4	U84	Good	Yes
+Q2139	Doha Shopping	U203	YES_NO	Yes
+Q2139_C1	U23	Good	Yes
+Q2139_C2	U3218	Dialogue	Not Applicable
+Q2139_C3	U145	Dialogue	Not Applicable
+Q2139_C4	U23	Good	Yes
+Q2139_C5	U203	Dialogue	Not Applicable
+Q2145	Life in Qatar	U37	YES_NO	Unsure
+Q2145_C1	U2632	Good	Unsure
+Q2158	Visas and Permits	U4740	YES_NO	No
+Q2158_C1	U19	Good	No
+Q2158_C2	U4741	Good	No
+Q2158_C3	U4740	Dialogue	Not Applicable
+Q2162	Funnies	U1332	YES_NO	Unsure
+Q2162_C1	U4747	Bad	Not Applicable
+Q2188	Salary and Allowances	U4787	YES_NO	Unsure
+Q2188_C1	U37	Good	No
+Q2188_C2	U37	Good	Yes
+Q2188_C3	U553	Good	No
+Q2188_C4	U1058	Good	Yes
+Q2188_C5	U3637	Dialogue	Not Applicable
+Q2188_C6	U37	Dialogue	Not Applicable
+Q2188_C7	U2228	Dialogue	Not Applicable
+Q2188_C8	U145	Good	Unsure
+Q2188_C9	U2228	Dialogue	Not Applicable
+Q2188_C10	U37	Bad	Not Applicable
+Q2189	Working in Qatar	U4788	YES_NO	Unsure
+Q2189_C1	U377	Good	Unsure
+Q2189_C2	U1035	Good	Yes
+Q2189_C3	U4789	Good	Unsure
+Q2189_C4	U37	Good	Yes
+Q2189_C5	U145	Good	Yes
+Q2189_C6	U2017	Good	Unsure
+Q2189_C7	U1035	Good	Yes
+Q2189_C8	U37	Good	Yes
+Q2189_C9	U1332	Dialogue	Not Applicable
+Q2189_C10	U1278	Good	Unsure
+Q2189_C11	U150	Bad	Not Applicable
+Q2189_C12	U266	Good	Yes
+Q2189_C13	U2794	Good	Yes
+Q2189_C14	U37	Good	Yes
+Q2189_C15	U37	Good	Unsure
+Q2189_C16	U37	Dialogue	Not Applicable
+Q2189_C17	U649	Dialogue	Not Applicable
+Q2189_C18	U145	Bad	Not Applicable
+Q2189_C19	U37	Dialogue	Not Applicable
+Q2189_C20	U145	Dialogue	Not Applicable
+Q2189_C21	U37	Dialogue	Not Applicable
+Q2189_C22	U649	Bad	Not Applicable
+Q2189_C23	U37	Good	Unsure
+Q2189_C24	U37	Bad	Not Applicable
+Q2189_C25	U538	Bad	Not Applicable
+Q2189_C26	U3081	Good	Unsure
+Q2189_C27	U1278	Bad	Not Applicable
+Q2189_C28	U9	Bad	Not Applicable
+Q2189_C29	U37	Good	Unsure
+Q2189_C30	U37	Dialogue	Not Applicable
+Q2189_C31	U37	Good	Unsure
+Q2189_C32	U649	Bad	Not Applicable
+Q2189_C33	U37	Dialogue	Not Applicable
+Q2189_C34	U649	Dialogue	Not Applicable
+Q2189_C35	U649	Dialogue	Not Applicable
+Q2189_C36	U37	Dialogue	Not Applicable
+Q2189_C37	U37	Dialogue	Not Applicable
+Q2189_C38	U37	Bad	Not Applicable
+Q2189_C39	U37	Good	Unsure
+Q2189_C40	U37	Good	Unsure
+Q2189_C41	U37	Dialogue	Not Applicable
+Q2189_C42	U37	Good	Yes
+Q2189_C43	U86	Good	No
+Q2189_C44	U37	Bad	Not Applicable
+Q2189_C45	U86	Dialogue	Not Applicable
+Q2189_C46	U1278	Dialogue	Not Applicable
+Q2189_C47	U37	Dialogue	Not Applicable
+Q2189_C48	U37	Bad	Not Applicable
+Q2189_C49	U37	Dialogue	Not Applicable
+Q2189_C50	U37	Good	Unsure
+Q2189_C51	U37	Good	Unsure
+Q2189_C52	U441	Dialogue	Not Applicable
+Q2189_C53	U37	Good	Yes
+Q2189_C54	U4790	Good	Unsure
+Q2189_C55	U388	Dialogue	Not Applicable
+Q2189_C56	U388	Good	Unsure
+Q2189_C57	U878	Good	Unsure
+Q2189_C58	U266	Bad	Not Applicable
+Q2189_C59	U4791	Good	Unsure
+Q2189_C60	U37	Bad	Not Applicable
+Q2189_C61	U4792	Bad	Not Applicable
+Q2189_C62	U37	Bad	Not Applicable
+Q2189_C63	U1035	Good	No
+Q2189_C64	U2458	Good	Yes
+Q2189_C65	U37	Bad	Not Applicable
+Q2189_C66	U388	Good	Unsure
+Q2189_C67	U266	Bad	Not Applicable
+Q2189_C68	U37	Bad	Not Applicable
+Q2189_C69	U112	Good	Unsure
+Q2189_C70	U3081	Bad	Not Applicable
+Q2189_C71	U1278	Dialogue	Not Applicable
+Q2189_C72	U86	Dialogue	Not Applicable
+Q2189_C73	U37	Good	No
+Q2189_C74	U37	Bad	Not Applicable
+Q2189_C75	U383	Good	Unsure
+Q2189_C76	U266	Bad	Not Applicable
+Q2189_C77	U4793	Good	Yes
+Q2189_C78	U388	Dialogue	Not Applicable
+Q2189_C79	U388	Dialogue	Not Applicable
+Q2189_C80	U37	Dialogue	Not Applicable
+Q2189_C81	U37	Dialogue	Not Applicable
+Q2189_C82	U4790	Dialogue	Not Applicable
+Q2189_C83	U388	Dialogue	Not Applicable
+Q2189_C84	U4790	Dialogue	Not Applicable
+Q2189_C85	U86	Bad	Not Applicable
+Q2189_C86	U145	Bad	Not Applicable
+Q2189_C87	U4396	Good	Yes
+Q2189_C88	U4794	Dialogue	Not Applicable
+Q2189_C89	U145	Bad	Not Applicable
+Q2189_C90	U3550	Dialogue	Not Applicable
+Q2189_C91	U37	Good	Yes
+Q2189_C92	U37	Bad	Not Applicable
+Q2189_C93	U37	Bad	Not Applicable
+Q2200	Beauty and Style	U2619	YES_NO	Unsure
+Q2200_C1	U2164	Good	Unsure
+Q2200_C2	U2286	Good	Unsure
+Q2200_C3	U3346	Good	Yes
+Q2200_C4	U4812	Good	Yes
+Q2200_C5	U2619	Dialogue	Not Applicable
+Q2232	Visas and Permits	U4859	YES_NO	Yes
+Q2232_C1	U47	Bad	Not Applicable
+Q2232_C2	U3396	Bad	Not Applicable
+Q2232_C3	U47	Bad	Not Applicable
+Q2232_C4	U3396	Bad	Not Applicable
+Q2232_C5	U47	Bad	Not Applicable
+Q2232_C6	U47	Bad	Not Applicable
+Q2232_C7	U47	Good	No
+Q2232_C8	U37	Bad	Not Applicable
+Q2232_C9	U47	Bad	Not Applicable
+Q2232_C10	U3396	Good	Yes
+Q2232_C11	U47	Bad	Not Applicable
+Q2232_C12	U47	Dialogue	Not Applicable
+Q2232_C13	U145	Dialogue	Not Applicable
+Q2232_C14	U306	Dialogue	Not Applicable
+Q2232_C15	U47	Dialogue	Not Applicable
+Q2232_C16	U3758	Good	Unsure
+Q2232_C17	U4860	Bad	Not Applicable
+Q2232_C18	U37	Dialogue	Not Applicable
+Q2232_C19	U145	Good	Yes
+Q2232_C20	U4833	Bad	Not Applicable
+Q2232_C21	U4859	Bad	Not Applicable
+Q2261	Qatar Living Lounge	U4904	YES_NO	Yes
+Q2261_C1	U4904	Good	Unsure
+Q2261_C2	U37	Good	Yes
+Q2261_C3	U2204	Bad	Not Applicable
+Q2261_C4	U24	Bad	Not Applicable
+Q2261_C5	U37	Good	Yes
+Q2261_C6	U37	Bad	Not Applicable
+Q2261_C7	U2654	Bad	Not Applicable
+Q2261_C8	U646	Good	No
+Q2265	Visas and Permits	U4909	YES_NO	Yes
+Q2265_C1	U4910	Good	Unsure
+Q2265_C2	U4909	Bad	Not Applicable
+Q2265_C3	U1713	Good	Unsure
+Q2265_C4	U37	Bad	Not Applicable
+Q2265_C5	U4909	Dialogue	Not Applicable
+Q2265_C6	U2605	Good	Yes
+Q2265_C7	U4911	Good	Yes
+Q2265_C8	U12	Good	Yes
+Q2265_C9	U675	Good	No
+Q2265_C10	U4912	Good	Yes
+Q2295	Computers and Internet	U4953	YES_NO	Unsure
+Q2295_C1	U4954	Good	Unsure
+Q2295_C2	U4955	Good	Yes
+Q2297	Sightseeing and Tourist attractions	U4957	YES_NO	Yes
+Q2297_C1	U109	Good	Yes
+Q2297_C2	U37	Good	Yes
+Q2307	Family Life in Qatar	U4976	YES_NO	Unsure
+Q2307_C1	U112	Dialogue	Not Applicable
+Q2307_C2	U136	Dialogue	Not Applicable
+Q2310	Qatar Living Lounge	U37	YES_NO	No
+Q2310_C1	U419	Good	Unsure
+Q2310_C2	U12	Good	No
+Q2310_C3	U23	Good	No
+Q2310_C4	U4443	Good	Yes
+Q2310_C5	U37	Good	No
+Q2310_C6	U37	Dialogue	Not Applicable
+Q2310_C7	U23	Good	No
+Q2310_C8	U37	Dialogue	Not Applicable
+Q2310_C9	U4980	Dialogue	Not Applicable
+Q2310_C10	U492	Bad	Not Applicable
+Q2310_C11	U3550	Good	Unsure
+Q2310_C12	U585	Good	Unsure
+Q2310_C13	U57	Bad	Not Applicable
+Q2310_C14	U11	Bad	Not Applicable
+Q2310_C15	U11	Bad	Not Applicable
+Q2310_C16	U11	Bad	Not Applicable
+Q2310_C17	U4980	Bad	Not Applicable
+Q2310_C18	U11	Bad	Not Applicable
+Q2310_C19	U37	Dialogue	Not Applicable
+Q2310_C20	U11	Dialogue	Not Applicable
+Q2310_C21	U37	Dialogue	Not Applicable
+Q2310_C22	U57	Dialogue	Not Applicable
+Q2310_C23	U57	Dialogue	Not Applicable
+Q2310_C24	U11	Dialogue	Not Applicable
+Q2310_C25	U4980	Dialogue	Not Applicable
+Q2310_C26	U37	Not English	Not Applicable
+Q2310_C27	U419	Bad	Not Applicable
+Q2310_C28	U37	Bad	Not Applicable
+Q2310_C29	U4980	Bad	Not Applicable
+Q2310_C30	U419	Bad	Not Applicable
+Q2310_C31	U419	Good	Unsure
+Q2310_C32	U37	Good	No
+Q2310_C33	U419	Good	No
+Q2310_C34	U4981	Bad	Not Applicable
+Q2341	Computers and Internet	U1483	YES_NO	Yes
+Q2341_C1	U5025	Good	Yes
+Q2341_C2	U1289	Good	Yes
+Q2355	Visas and Permits	U5041	YES_NO	Yes
+Q2355_C1	U59	Good	No
+Q2355_C2	U1057	Good	Unsure
+Q2355_C3	U2102	Good	Yes
+Q2355_C4	U37	Good	Yes
+Q2355_C5	U5042	Good	Yes
+Q2355_C6	U5041	Dialogue	Not Applicable
+Q2362	Visas and Permits	U5056	YES_NO	No
+Q2362_C1	U1713	Good	No
+Q2362_C2	U1057	Good	No
+Q2362_C3	U1058	Good	No
+Q2362_C4	U37	Bad	Not Applicable
+Q2362_C5	U3414	Good	Yes
+Q2362_C6	U3507	Good	Unsure
+Q2366	Moving to Qatar	U5063	YES_NO	No
+Q2366_C1	U1567	Good	Yes
+Q2366_C2	U36	Good	No
+Q2366_C3	U224	Good	No
+Q2366_C4	U37	Good	No
+Q2366_C5	U5064	Bad	Not Applicable
+Q2366_C6	U37	Good	Yes
+Q2366_C7	U996	Good	No
+Q2366_C8	U37	Good	Unsure
+Q2366_C9	U37	Good	Unsure
+Q2366_C10	U5065	Good	Unsure
+Q2391	Life in Qatar	U5105	YES_NO	Yes
+Q2391_C1	U12	Good	Yes
+Q2391_C2	U5105	Dialogue	Not Applicable
+Q2391_C3	U1085	Good	Yes
+Q2410	Visas and Permits	U5128	YES_NO	Yes
+Q2410_C1	U67	Good	Yes
+Q2435	Sightseeing and Tourist attractions	U3082	YES_NO	No
+Q2435_C1	U795	Not English	Not Applicable
+Q2435_C2	U31	Good	No
+Q2435_C3	U1029	Good	No
+Q2435_C4	U790	Good	No
+Q2450	Electronics	U5188	YES_NO	Unsure
+Q2450_C1	U3878	Good	Yes
+Q2450_C2	U5188	Good	Unsure
+Q2455	Visas and Permits	U5196	YES_NO	Yes
+Q2455_C1	U5197	Good	Yes
+Q2455_C2	U375	Good	Yes
+Q2455_C3	U5198	Good	Yes
+Q2505	Life in Qatar	U5284	YES_NO	No
+Q2505_C1	U20	Good	No
+Q2505_C2	U44	Good	No
+Q2505_C3	U5285	Good	Yes
+Q2519	Advice and Help	U37	YES_NO	Yes
+Q2519_C1	U37	Bad	Not Applicable
+Q2519_C2	U12	Bad	Not Applicable
+Q2519_C3	U37	Bad	Not Applicable
+Q2519_C4	U37	Dialogue	Not Applicable
+Q2519_C5	U37	Good	Unsure
+Q2519_C6	U435	Good	Yes
+Q2519_C7	U435	Good	No
+Q2519_C8	U37	Dialogue	Not Applicable
+Q2519_C9	U435	Good	Yes
+Q2519_C10	U12	Bad	Not Applicable
+Q2549	Qatar Living Lounge	U5347	YES_NO	Yes
+Q2549_C1	U1445	Good	Yes
+Q2564	Sports in Qatar	U1283	YES_NO	Yes
+Q2564_C1	U5369	Good	Unsure
+Q2564_C2	U5370	Good	Yes
+Q2564_C3	U5371	Good	Yes
+Q2564_C4	U1283	Dialogue	Not Applicable
+Q2564_C5	U5372	Dialogue	Not Applicable
+Q2564_C6	U5373	Good	Yes
+Q2568	Cars	U5378	YES_NO	No
+Q2568_C1	U2037	Good	No
+Q2568_C2	U37	Good	No
+Q2575	Visas and Permits	U5389	YES_NO	Unsure
+Q2575_C1	U278	Good	No
+Q2575_C2	U4236	Good	Yes
+Q2575_C3	U1574	Good	Unsure
+Q2575_C4	U5390	Bad	Not Applicable
+Q2575_C5	U37	Bad	Not Applicable
+Q2581	Visas and Permits	U5396	YES_NO	Yes
+Q2581_C1	U428	Good	Unsure
+Q2581_C2	U1304	Good	No
+Q2581_C3	U2459	Good	No
+Q2581_C4	U5397	Dialogue	Not Applicable
+Q2581_C5	U2459	Good	Yes
+Q2581_C6	U5397	Dialogue	Not Applicable
+Q2581_C7	U2459	Good	Unsure
+Q2581_C8	U5397	Dialogue	Not Applicable
+Q2581_C9	U2459	Good	Yes
+Q2581_C10	U428	Good	Unsure
+Q2581_C11	U1332	Good	Yes
+Q2581_C12	U136	Good	Yes
+Q2581_C13	U112	Good	Yes
+Q2581_C14	U2459	Dialogue	Not Applicable
+Q2581_C15	U112	Good	Unsure
+Q2581_C16	U2459	Bad	Not Applicable
+Q2589	Socialising	U5411	YES_NO	Unsure
+Q2589_C1	U2696	Good	Unsure
+Q2589_C2	U1149	Bad	Not Applicable
+Q2589_C3	U1057	Dialogue	Not Applicable
+Q2594	Funnies	U129	YES_NO	Yes
+Q2594_C1	U182	Bad	Not Applicable
+Q2594_C2	U147	Bad	Not Applicable
+Q2594_C3	U67	Bad	Not Applicable
+Q2594_C4	U147	Bad	Not Applicable
+Q2594_C5	U182	Bad	Not Applicable
+Q2594_C6	U147	Bad	Not Applicable
+Q2594_C7	U47	Bad	Not Applicable
+Q2594_C8	U938	Good	No
+Q2594_C9	U67	Bad	Not Applicable
+Q2594_C10	U309	Dialogue	Not Applicable
+Q2594_C11	U304	Good	Yes
+Q2594_C12	U5418	Good	Yes
+Q2594_C13	U1415	Good	Yes
+Q2594_C14	U47	Bad	Not Applicable
+Q2594_C15	U67	Bad	Not Applicable
+Q2594_C16	U147	Bad	Not Applicable
+Q2594_C17	U147	Bad	Not Applicable
+Q2594_C18	U938	Bad	Not Applicable
+Q2594_C19	U1814	Bad	Not Applicable
+Q2594_C20	U47	Bad	Not Applicable
+Q2594_C21	U67	Bad	Not Applicable
+Q2594_C22	U3120	Good	Yes
