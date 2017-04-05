@@ -1,5 +1,8 @@
 # NLP_QA
 
+## SemEval-2015 Task 3: Answer Selection in Community Question Answering
+http://alt.qcri.org/semeval2015/task3/
+
 CQA-QL-train.xml: 训练数据<br>
 CQA-QL-devel.xml: 开发数据<br>
 test_task3_English.xml: 测试数据<br>
