@@ -1,4 +1,4 @@
-#-*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 
 import sys
 import LDA.latent_dirichlet_allocation as LDA
@@ -11,7 +11,6 @@ import word2vec.word2vecUtil as word2vecUtil
 import url.ParseXML_has_url as URL
 import basic_feature.basic_feature as basic_feature
 import Has_Email.ParseXML_has_email as ParseXML_has_email
-import numpy as np
 import pickle as pickle
 
 TRAIN_LINES = 19141
@@ -21,7 +20,7 @@ TEST_LINES = 2305
 MIN_VALUE = 1e-2
 
 
-def main(step, task):     # 0 train, 1 devel, 2 test
+def main(step, task):  # step: 0 train, 1 devel, 2 test  task: 0 taskA, 1 taskB
 
     # feature
     file = ""
@@ -56,9 +55,7 @@ def main(step, task):     # 0 train, 1 devel, 2 test
         print 'error step!'
         return
 
-    fp = open(file, "r")    # read file
-    # fp_pickle_general = open(pickle_general, "wb")
-    # fp_pickle_yes_no = open(pickle_yes_no, "wb")
+    fp = open(file, "r")  # read file
     fp_pickle_total = open(pickle_total, "wb")
 
     row_num = 0         # line number
@@ -67,9 +64,7 @@ def main(step, task):     # 0 train, 1 devel, 2 test
     qid = 0
     qcontent = ""       # content
 
-    # features_gen = list()   # [[], [], ...]
-    # feature_yes_no = list()
-    features_total = list()
+    features_total = list()  # [[], [], ...]
 
     # meta
     meta = MetaData.MetaData(step)
@@ -105,7 +100,6 @@ def main(step, task):     # 0 train, 1 devel, 2 test
     elif step == 2:
         add_step = TRAIN_LINES + DEVEL_LINES      # test
 
-
     for line in fp:
 
         lines = line.split('\t')
@@ -115,11 +109,12 @@ def main(step, task):     # 0 train, 1 devel, 2 test
         # print rowid, content
 
         if not "_" in rowid:     # question
+
             qindex = row_num
             qid = rowid
             qcontent = content          # comment
-        else:
 
+        else:
             feature = []
 
             # cid
@@ -151,13 +146,13 @@ def main(step, task):     # 0 train, 1 devel, 2 test
             feature.append(url.get_url_value(rowid))
 
             # Has_Email
-            feature.append(has_email.get_url_value(rowid))
+            feature.append(has_email.get_email_value(rowid))
 
             # word2vec
             feature.append(w2v.getSentenseSim(qcontent, content))
 
             # label
-            if step == 0:       # train
+            if step == 0:  # train
                 feature.append(meta.getCommentType(rowid, qid))
 
             features_total.append(feature)
@@ -166,14 +161,10 @@ def main(step, task):     # 0 train, 1 devel, 2 test
 
     # print len(features_gen), len(feature_yes_no)
     # pickle features  labels
-    # pickle.dump(features_gen, fp_pickle_general)
-    # pickle.dump(feature_yes_no, fp_pickle_yes_no)
     pickle.dump(features_total, fp_pickle_total)
 
     # close
     fp.close()
-    # fp_pickle_general.close()
-    # fp_pickle_yes_no.close()
     fp_pickle_total.close()
 
 
@@ -204,24 +195,11 @@ if __name__ == '__main__':
 
 # bow w2v LDA TF-IDF URL Category_pro cuserComQuser
 
-# train
-# taskA
+# taskA train
 # python getFeatureVector.py 0 0
 
-
-# devel
-# taskA
+# taskA devel
 # python getFeatureVector.py 1 0
 
-
-# test
-# taskA
+# taskA test
 # python getFeatureVector.py 2 0
-
-
-    
-
-    
-    
-    
-

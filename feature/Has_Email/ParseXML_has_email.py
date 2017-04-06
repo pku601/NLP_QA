@@ -38,7 +38,7 @@ class get_email_utli:
         fp.close()
         return lda_dic
 
-    def get_url_value(self, cid):  # comment id  eg.Q2870_C8
+    def get_email_value(self, cid):  # comment id  eg.Q2870_C8
         return self.model[cid]
 
 
