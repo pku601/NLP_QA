@@ -15,7 +15,7 @@ PretreatmentUtil.py：预处理工具类<br>
 README.md: this file<br>
 
 ## feature/url<br>
-ParseXML_has_url.py: 判断CSubject、CBody是否包括链接<br>
+has_url.py: 判断CSubject、CBody是否包括链接<br>
 train_has_url.txt: 训练数据，1表示有，0表示无<br>
 devel_has_url.txt<br>
 test_has_url.txt<br>
