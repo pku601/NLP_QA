@@ -19,11 +19,11 @@ c_subject_body = ""
 class get_url_utli:
     def __init__(self, step):  # step 0 train  1 devel  2 test
         if step == 0:
-            file_path = "url/result_train_has_url.txt"
+            file_path = "url/train_has_url.txt"
         elif step == 1:
-            file_path = "url/result_devel_has_url.txt"
+            file_path = "url/devel_has_url.txt"
         elif step == 2:
-            file_path = "url/result_test_has_url.txt"
+            file_path = "url/test_has_url.txt"
         self.model = self.load_file(file_path)
 
     def load_file(self, lda_result_file_path):
@@ -117,9 +117,8 @@ if __name__ == '__main__':
 
     # check and process input arguments
     if len(sys.argv) < 3:
-        # logger.error("Usage example: python ParseXML_has_url.py ../../CQA-QL-train.xml result_train_has_url.txt")
-        # logger.error("Usage example: python ParseXML_has_url.py ../../CQA-QL-devel.xml result_devel_has_url.txt")
-        logger.error("Usage example: python ParseXML_has_url.py ../../test_task3_English.xml result_test_has_url.txt")
+        print "sys.argv[1]: Input File Path"
+        print "sys.argv[2]: Output File Path"
         sys.exit(1)
     input_file, output_file = sys.argv[1:3]
 
@@ -134,3 +133,9 @@ if __name__ == '__main__':
 
     parser.parse(input_file)
     fp.close()
+
+# python ParseXML_has_url.py ../../CQA-QL-train.xml train_has_url.txt
+
+# python ParseXML_has_url.py ../../CQA-QL-devel.xml devel_has_url.txt
+
+# python ParseXML_has_url.py ../../test_task3_English.xml test_has_url.txt

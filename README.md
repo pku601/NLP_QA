@@ -16,9 +16,9 @@ README.md: this file<br>
 
 ## feature/url<br>
 ParseXML_has_url.py: 判断CSubject、CBody是否包括链接<br>
-result_train_has_url.txt: 训练数据，1表示有，0表示无<br>
-result_devel_has_url.txt<br>
-result_test_has_url.txt<br>
+train_has_url.txt: 训练数据，1表示有，0表示无<br>
+devel_has_url.txt<br>
+test_has_url.txt<br>
 
 ## feature/metainfo
 ParseXML_metadata.py：获取train,dev,test的元数据信息
