@@ -163,7 +163,7 @@ def main(step, task):     # 0 train, 1 devel, 2 test
                 feature_data.append(url.get_url_value(rowid))
 
                 # Has_Email
-                feature_data.append(has_email.get_url_value(rowid))
+                feature_data.append(has_email.get_email_value(rowid))
 
                 # word2vec
                 feature_data.append(w2v.getSentenseSim(qcontent, content))
