@@ -134,8 +134,8 @@ if __name__ == '__main__':
     parser.parse(input_file)
     fp.close()
 
-# python ParseXML_has_url.py ../../CQA-QL-train.xml train_has_url.txt
+# python has_url.py ../../CQA-QL-train.xml train_has_url.txt
 
-# python ParseXML_has_url.py ../../CQA-QL-devel.xml devel_has_url.txt
+# python has_url.py ../../CQA-QL-devel.xml devel_has_url.txt
 
-# python ParseXML_has_url.py ../../test_task3_English.xml test_has_url.txt
+# python has_url.py ../../test_task3_English.xml test_has_url.txt

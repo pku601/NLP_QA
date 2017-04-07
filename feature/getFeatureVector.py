@@ -8,7 +8,7 @@ import cuserEqualquser.cuserEqualquser as cEq
 import metainfo.ParseXML_metadata as MetaData
 import category_probability.category_probability as cate_pro
 import word2vec.word2vecUtil as word2vecUtil
-import url.ParseXML_has_url as URL
+import url.has_url as URL
 import basic_feature.basic_feature as basic_feature
 import Has_Email.ParseXML_has_email as ParseXML_has_email
 import pickle as pickle
