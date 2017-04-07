@@ -10,7 +10,6 @@ import re
 global global_qsubject
 input_file = ""
 output_file = ""
-fp = ""
 global_qtype = ""
 has_url = 0
 count = 0
@@ -43,23 +42,26 @@ class get_email_utli:
 
 
 class MyXMLHandler(xml.sax.ContentHandler):
-    def __init__(self):
+
+    def __init__(self, fp):
         self.CurrentData = ""
         self.CSubject = ""
         self.CBody = ""
         self.cbody = False
         self.comment_line = ""
-        global fp
-        fp = open(output_file, 'wb')
+        self.fp = fp
 
     # 元素开始事件处理
     def startElement(self, tag, attributes):
         self.CurrentData = tag
+
         if tag == 'Comment':
             if 'CID' in attributes:
                 self.comment_line += attributes['CID']
+
         if tag == 'CBody':
             self.cbody = True
+
         if tag == 'Question':
             if 'QTYPE' in attributes:
                 global global_qtype
@@ -69,35 +71,39 @@ class MyXMLHandler(xml.sax.ContentHandler):
     def endElement(self, tag):
         email_pattern = '([\w-]+(\.[\w-]+)*@[\w-]+(\.[\w-]+)+)'
         if tag == 'Question':
+
             global global_qtype
             global_qtype = ""
+
         if tag == 'CSubject':
+
             global c_subject_body
             c_subject_body += "\t" + self.CSubject.replace("\t", "").replace("\n", " ").strip()
 
         if tag == 'CBody' and self.cbody:
-            c_subject_body += "\t" + self.CBody.replace("\t", "").replace("\n", " ").strip()
 
+            c_subject_body += "\t" + self.CBody.replace("\t", "").replace("\n", " ").strip()
             self.cbody = False
             self.CBody = ""
+
         if tag == 'Comment':
 
             if re.search(email_pattern, c_subject_body):
                 self.comment_line += "\t1"
             else:
                 self.comment_line += "\t0"
-            print self.comment_line
+            # print self.comment_line
 
             global count
             count += 1
             if count % 200 == 0:
                 logger.info("Process " + str(count) + " comments")
-            # global_qtype
-            # if global_qtype == "GENERAL":
-            #     fp.write(self.comment_line + '\n')
-            fp.write(self.comment_line + '\n')
+
+            self.fp.write(self.comment_line + '\n')
             self.comment_line = ""
             c_subject_body = ""
+
+            global has_url
             has_url = 0
 
     # 内容事件处理
@@ -109,6 +115,7 @@ class MyXMLHandler(xml.sax.ContentHandler):
 
 
 if __name__ == '__main__':
+
     program = os.path.basename(sys.argv[0])
     logger = logging.getLogger(program)
 
@@ -123,15 +130,19 @@ if __name__ == '__main__':
         sys.exit(1)
     input_file, output_file = sys.argv[1:3]
 
+    fp = open(output_file, 'wb')
+
     # 创建一个 XMLReader
     parser = xml.sax.make_parser()
+
     # turn off namepsaces
     parser.setFeature(xml.sax.handler.feature_namespaces, 0)
 
     # 重写 ContextHandler
-    Handler = MyXMLHandler()
+    Handler = MyXMLHandler(fp)
     parser.setContentHandler(Handler)
 
+    # 解析输入文件
     parser.parse(input_file)
     fp.close()
 
