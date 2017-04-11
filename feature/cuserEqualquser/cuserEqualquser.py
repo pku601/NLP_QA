@@ -33,15 +33,14 @@ def getFeature(meta_file, file_type):
     in_file = open(meta_file, 'r')
     out_file = open(file_type + '_cuserEqualquser.txt', 'wb')
 
-    print meta_file, file_type
     quser = 0
     # test, question 4, comment 2
     if file_type == 'test':
         for line in in_file:
             feats = line.strip('\n').split('\t')
-            if(len(feats) == 4):
+            if len(feats) == 4:
                 quser = feats[2]
-            elif (len(feats) == 2):
+            elif len(feats) == 2:
                 cid = feats[0]
                 cuser = feats[1]
                 if quser == cuser:
@@ -55,9 +54,9 @@ def getFeature(meta_file, file_type):
     else:
         for line in in_file:
             feats = line.strip('\n').split('\t')
-            if(len(feats) == 5):
+            if len(feats) == 5:
                 quser = feats[2]
-            elif (len(feats) == 4):
+            elif len(feats) == 4:
                 cid = feats[0]
                 cuser = feats[1]
                 if quser == cuser:
@@ -76,7 +75,7 @@ if __name__ == "__main__":
         print "sys.argv[2]: Data Type (train 0, dev 1, test 2)"
         exit()
 
-    file_type = ''          # 文件类型
+    file_type = ''  # 文件类型
 
     if sys.argv[2] == '0':
         file_type = 'train'
@@ -89,7 +88,6 @@ if __name__ == "__main__":
         exit()
 
     getFeature(sys.argv[1], file_type)
-    print "feature cuserEqualquser " + sys.argv[1] + " done!"
 
 # train
 # python cuserEqualquser.py ../metainfo/train/metadata_total.txt 0
